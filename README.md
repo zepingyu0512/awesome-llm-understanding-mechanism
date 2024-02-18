@@ -76,7 +76,7 @@ Towards Tracing Factual Knowledge in Language Models Back to the Training Data. 
 
 Ground-Truth Labels Matter: A Deeper Look into Input-Label Demonstrations. \[[pdf](https://arxiv.org/pdf/2205.12685.pdf)\] \[EMNLP 2022\] \[2022.5\]
 
-Large Language Models are Zero-Shot Reasoners. Scaling Laws and Interpretability of Learning from Repeated Data. \[[pdf](https://arxiv.org/pdf/2205.11916.pdf)\] \[NeurIPS 2022\]  \[2022.5\]
+Large Language Models are Zero-Shot Reasoners. \[[pdf](https://arxiv.org/pdf/2205.11916.pdf)\] \[NeurIPS 2022\]  \[2022.5\]
 
 Scaling Laws and Interpretability of Learning from Repeated Data. \[[pdf](https://arxiv.org/pdf/2205.10487.pdf)\] \[2022.5\]
 
