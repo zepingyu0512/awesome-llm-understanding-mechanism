@@ -23,13 +23,13 @@ How do Large Language Models Learn In-Context? Query and Key Matrices of In-Cont
 
 Locating Factual Knowledge in Large Language Models: Exploring the Residual Stream and Analyzing Subvalues in Vocabulary Space \[[pdf](https://arxiv.org/pdf/2312.12141.pdf)\] \[2023.12\]
 
-Do Machine Learning Models Memorize or Generalize? \[[pdf](https://pair.withgoogle.com/explorables/grokking/)\] \[2023.8\]
+Do Machine Learning Models Memorize or Generalize? \[[blog](https://pair.withgoogle.com/explorables/grokking/)\] \[2023.8\]
 
 Label Words are Anchors: An Information Flow Perspective for Understanding In-Context Learning. \[[pdf](https://arxiv.org/pdf/2305.14160.pdf)\] \[EMNLP 2023\] \[2023.5\]
 
 What In-Context Learning "Learns" In-Context: Disentangling Task Recognition and Task Learning. \[[pdf](https://arxiv.org/pdf/2305.09731.pdf)\] \[ACL 2023\] \[2023.5\]
 
-Language models can explain neurons in language models. \[[pdf](https://openai.com/research/language-models-can-explain-neurons-in-language-models)\] \[2023.5\]
+Language models can explain neurons in language models. \[[blog](https://openai.com/research/language-models-can-explain-neurons-in-language-models)\] \[2023.5\]
 
 Dissecting Recall of Factual Associations in Auto-Regressive Language Models. \[[pdf](https://arxiv.org/pdf/2304.14767.pdf)\] \[EMNLP 2023\] \[2023.4\]
 
@@ -39,7 +39,7 @@ The Closeness of In-Context Learning and Weight Shifting for Softmax Regression.
 
 How does GPT-2 compute greater-than?: Interpreting mathematical abilities in a pre-trained language model. \[[pdf](https://arxiv.org/pdf/2305.00586.pdf)\] \[NeurIPS 2023\] \[2023.4\]
 
-A Theory of Emergent In-Context Learning as Implicit Structure Induction. \[[pdf](https://arxiv.org/pdf/2303.07971.pdf)\] \[arxiv\] \[2023.3\]
+A Theory of Emergent In-Context Learning as Implicit Structure Induction. \[[pdf](https://arxiv.org/pdf/2303.07971.pdf)\] \[2023.3\]
 
 Larger language models do in-context learning differently. \[[pdf](https://arxiv.org/pdf/2303.03846.pdf)\] \[ICLR 2024\] \[2023.3\]
 
@@ -49,7 +49,7 @@ Transformers as Algorithms: Generalization and Stability in In-context Learning.
 
 Why Can GPT Learn In-Context? Language Models Implicitly Perform Gradient Descent as Meta-Optimizers. \[[pdf](https://arxiv.org/pdf/2212.10559.pdf)\] \[ACL 2023\] \[2022.12\]
 
-How does gpt obtain its ability? tracing emergent abilities of language models to their sources. \[[pdf](https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1)\] \[2022.12\]
+How does gpt obtain its ability? tracing emergent abilities of language models to their sources. \[[blog](https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1)\] \[2022.12\]
 
 Towards Understanding Chain-of-Thought Prompting: An Empirical Study of What Matters. \[[pdf](https://arxiv.org/pdf/2212.10001.pdf)\] \[ACL 2023\] \[2022.12\]
 
@@ -65,11 +65,11 @@ Polysemanticity and Capacity in Neural Networks. \[[pdf](https://arxiv.org/pdf/2
 
 Analyzing Transformers in Embedding Space. \[[pdf](https://arxiv.org/pdf/2209.02535.pdf)\] \[ACL 2023\] \[2022.9\]
 
-Toy Models of Superposition. \[[pdf](https://transformer-circuits.pub/2022/toy_model/index.html)\] \[2022.9\]
+Toy Models of Superposition. \[[blog](https://transformer-circuits.pub/2022/toy_model/index.html)\] \[2022.9\]
 
 Emergent Abilities of Large Language Models. \[[pdf](https://arxiv.org/pdf/2206.07682.pdf)\] \[2022.6\]
 
-Mechanistic Interpretability, Variables, and the Importance of Interpretable Bases. \[[pdf](https://transformer-circuits.pub/2022/mech-interp-essay/index.html)\] \[2022.6\]
+Mechanistic Interpretability, Variables, and the Importance of Interpretable Bases. \[[blog](https://transformer-circuits.pub/2022/mech-interp-essay/index.html)\] \[2022.6\]
 
 Towards Tracing Factual Knowledge in Language Models Back to the Training Data. \[[pdf](https://arxiv.org/pdf/2205.11482.pdf)\] \[EMNLP 2022\] \[2022.5\]
 
@@ -81,7 +81,7 @@ Scaling Laws and Interpretability of Learning from Repeated Data. \[[pdf](https:
 
 Transformer Feed-Forward Layers Build Predictions by Promoting Concepts in the Vocabulary Space. \[[pdf](https://arxiv.org/pdf/2203.14680.pdf)\] \[EMNLP 2022\] \[2022.3\]
 
-In-context Learning and Induction Heads. \[[pdf](https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html)\] \[2022.3\]
+In-context Learning and Induction Heads. \[[blog](https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html)\] \[2022.3\]
 
 Locating and Editing Factual Associations in GPT. \[[pdf](https://arxiv.org/pdf/2202.05262.pdf)\] \[NeurIPS 2022\] \[2022.2\]
 
@@ -91,9 +91,9 @@ Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets. \[[pd
 
 Chain-of-Thought Prompting Elicits Reasoning in Large Language Models. \[[pdf](https://arxiv.org/pdf/2201.11903.pdf)\] \[2022.1\]
 
-A Mathematical Framework for Transformer Circuits. \[[pdf](https://transformer-circuits.pub/2021/framework/index.html)\] \[2021.12\]
+A Mathematical Framework for Transformer Circuits. \[[blog](https://transformer-circuits.pub/2021/framework/index.html)\] \[2021.12\]
 
-An Explanation of In-context Learning as Implicit Bayesian Inference. \[[pdf](https://arxiv.org/pdf/2104.08696.pdf)\] \[ICLR 2022\] \[2021.11\]
+An Explanation of In-context Learning as Implicit Bayesian Inference. \[[pdf](https://arxiv.org/pdf/2111.02080.pdf)\] \[ICLR 2022\] \[2021.11\]
 
 Towards a Unified View of Parameter-Efficient Transfer Learning. \[[pdf](https://arxiv.org/pdf/2110.04366.pdf)\] \[ICLR 2022\] \[2021.10\]
 
