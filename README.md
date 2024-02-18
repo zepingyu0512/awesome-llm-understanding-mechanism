@@ -8,8 +8,9 @@ A Survey of Large Language Models. \[[pdf](https://arxiv.org/pdf/2303.18223.pdf)
 
 Explainability for Large Language Models: A Survey. \[[pdf](https://arxiv.org/pdf/2309.01029.pdf)\]  \[2023.11\]
 
-Toward Transparent AI: A Survey on Interpreting the Inner Structures of Deep Neural Networks. \[[pdf]
-(https://arxiv.org/pdf/2207.13243.pdf)\]  \[2023.8\]
+A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future. \[[pdf](https://arxiv.org/pdf/2309.15402.pdf)\]  \[2023.10\]
+
+Toward Transparent AI: A Survey on Interpreting the Inner Structures of Deep Neural Networks. \[[pdf](https://arxiv.org/pdf/2207.13243.pdf)\]  \[2023.8\]
 
 A Survey on In-context Learning. \[[pdf](https://arxiv.org/pdf/2301.00234.pdf)\]  \[2023.6\]
 
@@ -27,6 +28,8 @@ Language models can explain neurons in language models. \[[pdf](https://openai.c
 
 Dissecting Recall of Factual Associations in Auto-Regressive Language Models. \[[pdf](https://arxiv.org/pdf/2304.14767.pdf)\] \[EMNLP 2023\] \[2023.4\]
 
+Are Emergent Abilities of Large Language Models a Mirage? \[[pdf](https://arxiv.org/pdf/2304.15004.pdf)\] \[NeurIPS 2023\] \[2023.4\]
+
 The Closeness of In-Context Learning and Weight Shifting for Softmax Regression. \[[pdf](https://arxiv.org/pdf/2304.13276.pdf)\] \[ICLR 2024\] \[2023.4\]
 
 How does GPT-2 compute greater-than?: Interpreting mathematical abilities in a pre-trained language model. \[[pdf](https://arxiv.org/pdf/2305.00586.pdf)\] \[NeurIPS 2023\] \[2023.4\]
@@ -41,7 +44,13 @@ Transformers as Algorithms: Generalization and Stability in In-context Learning.
 
 Why Can GPT Learn In-Context? Language Models Implicitly Perform Gradient Descent as Meta-Optimizers. \[[pdf](https://arxiv.org/pdf/2212.10559.pdf)\] \[ACL 2023\] \[2022.12\]
 
+How does gpt obtain its ability? tracing emergent abilities of language models to their sources. \[[pdf](https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1\] \[2022.12\]
+
+Towards Understanding Chain-of-Thought Prompting: An Empirical Study of What Matters. \[[pdf](https://arxiv.org/pdf/2212.10001.pdf)\] \[ACL 2023\] \[2022.12\]
+
 Interpretability in the Wild: a Circuit for Indirect Object Identification in GPT-2 small. \[[pdf](https://arxiv.org/pdf/2211.00593.pdf)\] \[ICLR 2023\] \[2022.11\]
+
+Inverse scaling can become U-shaped. \[[pdf](https://arxiv.org/pdf/2211.02011.pdf)\] \[EMNLP 2023\] \[2022.11\]
 
 What learning algorithm is in-context learning? Investigations with linear models. \[[pdf](https://arxiv.org/pdf/2211.15661.pdf)\] \[ICLR 2023\] \[2022.11\]
 
@@ -55,9 +64,13 @@ Toy Models of Superposition. \[[pdf](https://transformer-circuits.pub/2022/toy_m
 
 Emergent Abilities of Large Language Models. \[[pdf](https://arxiv.org/pdf/2206.07682.pdf)\] \[2022.6\]
 
+Mechanistic Interpretability, Variables, and the Importance of Interpretable Bases. \[[pdf](https://transformer-circuits.pub/2022/mech-interp-essay/index.html)\] \[2022.6\]
+
 Towards Tracing Factual Knowledge in Language Models Back to the Training Data. \[[pdf](https://arxiv.org/pdf/2205.11482.pdf)\] \[EMNLP 2022\] \[2022.5\]
 
 Ground-Truth Labels Matter: A Deeper Look into Input-Label Demonstrations. \[[pdf](https://arxiv.org/pdf/2205.12685.pdf)\] \[EMNLP 2022\] \[2022.5\]
+
+Large Language Models are Zero-Shot Reasoners. Scaling Laws and Interpretability of Learning from Repeated Data. \[[pdf](https://arxiv.org/pdf/2205.11916.pdf)\] \[NeurIPS 2022\]  \[2022.5\]
 
 Scaling Laws and Interpretability of Learning from Repeated Data. \[[pdf](https://arxiv.org/pdf/2205.10487.pdf)\] \[2022.5\]
 
@@ -71,19 +84,28 @@ Rethinking the Role of Demonstrations: What Makes In-Context Learning Work? \[[p
 
 Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets. \[[pdf](https://arxiv.org/pdf/2201.02177.pdf)\] \[2022.1\]
 
+Chain-of-Thought Prompting Elicits Reasoning in Large Language Models. \[[pdf](https://arxiv.org/pdf/2201.11903.pdf)\] \[2022.1\]
+
 A Mathematical Framework for Transformer Circuits. \[[pdf](https://transformer-circuits.pub/2021/framework/index.html)\] \[2021.12\]
 
 An Explanation of In-context Learning as Implicit Bayesian Inference. \[[pdf](https://arxiv.org/pdf/2104.08696.pdf)\] \[ICLR 2022\] \[2021.11\]
+
+Towards a Unified View of Parameter-Efficient Transfer Learning. \[[pdf](https://arxiv.org/pdf/2110.04366.pdf)\] \[ICLR 2022\] \[2021.10\]
 
 Do Prompt-Based Models Really Understand the Meaning of their Prompts? \[[pdf](https://arxiv.org/pdf/2109.01247.pdf)\] \[NAACL 2022\] \[2021.9\]
 
 Deduplicating Training Data Makes Language Models Better. \[[pdf](https://arxiv.org/pdf/2107.06499.pdf)\] \[ACL 2022\] \[2021.7\]
 
-Knowledge Neurons in Pretrained Transformers. \[[pdf](https://arxiv.org/pdf/2104.08696.pdf)\] \[ACL 2022\] \[2021.4\]
-
-Editing Factual Knowledge in Language Models. \[[pdf](https://arxiv.org/pdf/2104.08164.pdf)\] \[EMNLP 2021\] \[2021.4\]
+LoRA: Low-Rank Adaptation of Large Language Models. \[[pdf](https://arxiv.org/pdf/2106.09685.pdf)\] \[ICLR 2022\] \[2021.6\]
 
 Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity. \[[pdf](https://arxiv.org/pdf/2104.08786.pdf)\] \[ACL 2022\] \[2021.4\]
+
+The Power of Scale for Parameter-Efficient Prompt Tuning. \[[pdf](https://arxiv.org/pdf/2104.08691.pdf)\] \[EMNLP 2021\] \[2021.4\]
+
+Calibrate Before Use: Improving Few-Shot Performance of Language Models
+\[[pdf](https://arxiv.org/pdf/2102.09690.pdf)\] \[ICML 2021\] \[2021.2\]
+
+Prefix-Tuning: Optimizing Continuous Prompts for Generation. \[[pdf](https://arxiv.org/pdf/2101.00190.pdf)\] \[ACL 2021\] \[2021.1\]
 
 Transformer Feed-Forward Layers Are Key-Value Memories. \[[pdf](https://arxiv.org/pdf/2012.14913.pdf)\] \[EMNLP 2021\] \[2020.12\]
 
