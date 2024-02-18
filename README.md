@@ -18,6 +18,11 @@ Scaling Down to Scale Up: A Guide to Parameter-Efficient Fine-Tuning. \[[pdf](ht
 
 
 ## papers
+
+How do Large Language Models Learn In-Context? Query and Key Matrices of In-Context Heads are Two Towers for Metric Learning \[[pdf](https://arxiv.org/pdf/2402.02872.pdf)\] \[2024.2\]
+
+Locating Factual Knowledge in Large Language Models: Exploring the Residual Stream and Analyzing Subvalues in Vocabulary Space \[[pdf](https://arxiv.org/pdf/2312.12141.pdf)\] \[2023.12\]
+
 Do Machine Learning Models Memorize or Generalize? \[[pdf](https://pair.withgoogle.com/explorables/grokking/)\] \[2023.8\]
 
 Label Words are Anchors: An Information Flow Perspective for Understanding In-Context Learning. \[[pdf](https://arxiv.org/pdf/2305.14160.pdf)\] \[EMNLP 2023\] \[2023.5\]
