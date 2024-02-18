@@ -44,7 +44,7 @@ Transformers as Algorithms: Generalization and Stability in In-context Learning.
 
 Why Can GPT Learn In-Context? Language Models Implicitly Perform Gradient Descent as Meta-Optimizers. \[[pdf](https://arxiv.org/pdf/2212.10559.pdf)\] \[ACL 2023\] \[2022.12\]
 
-How does gpt obtain its ability? tracing emergent abilities of language models to their sources. \[[pdf](https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1\] \[2022.12\]
+How does gpt obtain its ability? tracing emergent abilities of language models to their sources. \[[pdf](https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1)\] \[2022.12\]
 
 Towards Understanding Chain-of-Thought Prompting: An Empirical Study of What Matters. \[[pdf](https://arxiv.org/pdf/2212.10001.pdf)\] \[ACL 2023\] \[2022.12\]
 
