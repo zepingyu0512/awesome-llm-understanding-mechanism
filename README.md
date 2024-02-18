@@ -109,4 +109,4 @@ Prefix-Tuning: Optimizing Continuous Prompts for Generation. \[[pdf](https://arx
 
 Transformer Feed-Forward Layers Are Key-Value Memories. \[[pdf](https://arxiv.org/pdf/2012.14913.pdf)\] \[EMNLP 2021\] \[2020.12\]
 
-Scaling Laws for Neural Language Models. \[[pdf](https://arxiv.org/pdf/2001.08361.pdf)\] \[2020.11\]
+Scaling Laws for Neural Language Models. \[[pdf](https://arxiv.org/pdf/2001.08361.pdf)\] \[2020.1\]
