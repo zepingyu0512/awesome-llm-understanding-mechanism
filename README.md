@@ -3,19 +3,25 @@ Focusing on: interpretability of large language models (LLM).
 (keep updating when I read good papers ...)
 
 ## survey
-A Comprehensive Overview of Large Language Models. \[[pdf](https://arxiv.org/pdf/2307.06435.pdf)\]  \[2023.12\]
+A Comprehensive Overview of Large Language Models. \[[pdf](https://arxiv.org/pdf/2307.06435.pdf)\]  \[2023.12\] \[LLM\]
 
-A Survey of Large Language Models. \[[pdf](https://arxiv.org/pdf/2303.18223.pdf)\]  \[2023.11\]
+A Survey of Large Language Models. \[[pdf](https://arxiv.org/pdf/2303.18223.pdf)\]  \[2023.11\] \[LLM\]
 
-Explainability for Large Language Models: A Survey. \[[pdf](https://arxiv.org/pdf/2309.01029.pdf)\]  \[2023.11\]
+Explainability for Large Language Models: A Survey. \[[pdf](https://arxiv.org/pdf/2309.01029.pdf)\]  \[2023.11\] \[interpretability\]
 
-A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future. \[[pdf](https://arxiv.org/pdf/2309.15402.pdf)\]  \[2023.10\]
+A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future. \[[pdf](https://arxiv.org/pdf/2309.15402.pdf)\]  \[2023.10\] \[chain of thought\]
 
-Toward Transparent AI: A Survey on Interpreting the Inner Structures of Deep Neural Networks. \[[pdf](https://arxiv.org/pdf/2207.13243.pdf)\]  \[2023.8\]
+Instruction tuning for large language models: A survey. \[[pdf](https://arxiv.org/pdf/2308.10792.pdf)\]  \[2023.10\] \[instruction tuning\]
 
-A Survey on In-context Learning. \[[pdf](https://arxiv.org/pdf/2301.00234.pdf)\]  \[2023.6\]
+Siren’s Song in the AI Ocean: A Survey on Hallucination in Large Language Models. \[[pdf](https://arxiv.org/pdf/2309.01219.pdf)\]  \[2023.9\] \[hallucination\]
 
-Scaling Down to Scale Up: A Guide to Parameter-Efficient Fine-Tuning. \[[pdf](https://arxiv.org/pdf/2303.15647.pdf)\]  \[2023.3\]
+Reasoning with language model prompting: A survey. \[[pdf](https://arxiv.org/pdf/2212.09597.pdf)\]  \[2023.9\] \[reasoning\]
+
+Toward Transparent AI: A Survey on Interpreting the Inner Structures of Deep Neural Networks. \[[pdf](https://arxiv.org/pdf/2207.13243.pdf)\]  \[2023.8\] \[interpretability\]
+
+A Survey on In-context Learning. \[[pdf](https://arxiv.org/pdf/2301.00234.pdf)\]  \[2023.6\] \[in-context learning\]
+
+Scaling Down to Scale Up: A Guide to Parameter-Efficient Fine-Tuning. \[[pdf](https://arxiv.org/pdf/2303.15647.pdf)\]  \[2023.3\] \[parameter-efficient fine-tuning\]
 
 
 ## papers
