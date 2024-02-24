@@ -30,9 +30,21 @@ How do Large Language Models Learn In-Context? Query and Key Matrices of In-Cont
 
 Locating Factual Knowledge in Large Language Models: Exploring the Residual Stream and Analyzing Subvalues in Vocabulary Space \[[pdf](https://arxiv.org/pdf/2312.12141.pdf)\] \[2023.12\]
 
+Successor Heads: Recurring, Interpretable Attention Heads In The Wild. \[[pdf](https://arxiv.org/pdf/2312.09230.pdf)\] \[ICLR 2024\] \[2023.12\]
+
+Impact of Co-occurrence on Factual Knowledge of Large Language Models. \[[pdf](https://arxiv.org/pdf/2310.08256.pdf)\] \[ACL 2023\] \[2023.10\]
+
+Can Large Language Models Explain Themselves? \[[pdf](https://arxiv.org/pdf/2310.11207.pdf)\] \[2023.10\]
+
+Neurons in Large Language Models: Dead, N-gram, Positional. \[[pdf](https://arxiv.org/pdf/2309.04827.pdf)\] \[2023.9\]
+
 Do Machine Learning Models Memorize or Generalize? \[[blog](https://pair.withgoogle.com/explorables/grokking/)\] \[2023.8\]
 
+Overthinking the Truth: Understanding how Language Models Process False Demonstrations. \[[pdf](https://arxiv.org/pdf/2307.09476.pdf)\] \[2023.7\]
+
 Label Words are Anchors: An Information Flow Perspective for Understanding In-Context Learning. \[[pdf](https://arxiv.org/pdf/2305.14160.pdf)\] \[EMNLP 2023\] \[2023.5\]
+
+Let's Verify Step by Step. \[[pdf](https://arxiv.org/pdf/2305.20050.pdf)\] \[2023.5\]
 
 What In-Context Learning "Learns" In-Context: Disentangling Task Recognition and Task Learning. \[[pdf](https://arxiv.org/pdf/2305.09731.pdf)\] \[ACL 2023\] \[2023.5\]
 
@@ -73,6 +85,8 @@ Polysemanticity and Capacity in Neural Networks. \[[pdf](https://arxiv.org/pdf/2
 Analyzing Transformers in Embedding Space. \[[pdf](https://arxiv.org/pdf/2209.02535.pdf)\] \[ACL 2023\] \[2022.9\]
 
 Toy Models of Superposition. \[[blog](https://transformer-circuits.pub/2022/toy_model/index.html)\] \[2022.9\]
+
+Text and Patterns: For Effective Chain of Thought, It Takes Two to Tango. \[[pdf](https://arxiv.org/pdf/2209.07686.pdf)\] \[2022.9\]
 
 Emergent Abilities of Large Language Models. \[[pdf](https://arxiv.org/pdf/2206.07682.pdf)\] \[2022.6\]
 
