@@ -1,5 +1,5 @@
 # awesome-llm-papers-interpretability (after 2020)
-Focusing on: interpretability of large language models (LLM). 
+Focusing on: understanding large language models (LLM). 
 (keep updating when I read good papers ...)
 
 ## survey
