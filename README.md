@@ -1,4 +1,4 @@
-# awesome papers for understanding the mechanism of LLM (after 2020)
+# awesome papers for understanding LLM mechanism (after 2020)
 Focusing on: understanding the internal mechanism of large language models (LLM). 
 (keep updating when I read good papers ...)
 
