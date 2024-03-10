@@ -1,5 +1,5 @@
-# awesome-llm-papers-interpretability (after 2020)
-Focusing on: understanding the mechanism of large language models (LLM). 
+# awesome papers for understanding the mechanism of LLM (after 2020)
+Focusing on: understanding the internal mechanism of large language models (LLM). 
 (keep updating when I read good papers ...)
 
 ## survey
