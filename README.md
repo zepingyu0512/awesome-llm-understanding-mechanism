@@ -27,10 +27,6 @@ Scaling Down to Scale Up: A Guide to Parameter-Efficient Fine-Tuning. \[[pdf](ht
 
 ## papers
 
-How do Large Language Models Learn In-Context? Query and Key Matrices of In-Context Heads are Two Towers for Metric Learning \[[pdf](https://arxiv.org/pdf/2402.02872.pdf)\] \[2024.2\]
-
-Locating Factual Knowledge in Large Language Models: Exploring the Residual Stream and Analyzing Subvalues in Vocabulary Space \[[pdf](https://arxiv.org/pdf/2312.12141.pdf)\] \[2023.12\]
-
 Successor Heads: Recurring, Interpretable Attention Heads In The Wild. \[[pdf](https://arxiv.org/pdf/2312.09230.pdf)\] \[ICLR 2024 poster\] \[2023.12\]
 
 Impact of Co-occurrence on Factual Knowledge of Large Language Models. \[[pdf](https://arxiv.org/pdf/2310.08256.pdf)\] \[EMNLP 2023 findings\] \[2023.10\]
