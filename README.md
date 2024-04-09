@@ -3,33 +3,26 @@ Focusing on: understanding the internal mechanism of large language models (LLM)
 
 (keep updating when I read good papers ...)
 
-## survey
-A Comprehensive Overview of Large Language Models. \[[pdf](https://arxiv.org/pdf/2307.06435.pdf)\]  \[2023.12\] \[LLM\]
-
-A Survey of Large Language Models. \[[pdf](https://arxiv.org/pdf/2303.18223.pdf)\]  \[2023.11\] \[LLM\]
-
-Explainability for Large Language Models: A Survey. \[[pdf](https://arxiv.org/pdf/2309.01029.pdf)\]  \[2023.11\] \[interpretability\]
-
-A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future. \[[pdf](https://arxiv.org/pdf/2309.15402.pdf)\]  \[2023.10\] \[chain of thought\]
-
-Instruction tuning for large language models: A survey. \[[pdf](https://arxiv.org/pdf/2308.10792.pdf)\]  \[2023.10\] \[instruction tuning\]
-
-Siren’s Song in the AI Ocean: A Survey on Hallucination in Large Language Models. \[[pdf](https://arxiv.org/pdf/2309.01219.pdf)\]  \[2023.9\] \[hallucination\]
-
-Reasoning with language model prompting: A survey. \[[pdf](https://arxiv.org/pdf/2212.09597.pdf)\]  \[2023.9\] \[reasoning\]
-
-Toward Transparent AI: A Survey on Interpreting the Inner Structures of Deep Neural Networks. \[[pdf](https://arxiv.org/pdf/2207.13243.pdf)\]  \[2023.8\] \[interpretability\]
-
-A Survey on In-context Learning. \[[pdf](https://arxiv.org/pdf/2301.00234.pdf)\]  \[2023.6\] \[in-context learning\]
-
-Scaling Down to Scale Up: A Guide to Parameter-Efficient Fine-Tuning. \[[pdf](https://arxiv.org/pdf/2303.15647.pdf)\]  \[2023.3\] \[parameter-efficient fine-tuning\]
-
-
 ## papers
+Locating and Editing Factual Associations in Mamba. \[[pdf](https://arxiv.org/pdf/2404.03646.pdf)\] \[2024.4\]
+
+How do Large Language Models Learn In-Context? Query and Key Matrices of In-Context Heads are Two Towers for Metric Learning. \[[pdf](https://arxiv.org/pdf/2402.02872.pdf)\] \[2024.2\]
+
+Chain-of-Thought Reasoning Without Prompting. \[[pdf](https://arxiv.org/pdf/2402.10200.pdf)\] \[2024.2\]
+
+Fine-Tuning Enhances Existing Mechanisms: A Case Study on Entity Tracking. \[[pdf](https://arxiv.org/pdf/2402.14811.pdf)\] \[ICLR 2024 poster\] \[2024.2\]
+
+Locating Factual Knowledge in Large Language Models: Exploring the Residual Stream and Analyzing Subvalues in Vocabulary Space. \[[pdf](https://arxiv.org/pdf/2312.12141.pdf)\] \[2024.1\]
+
+Towards Best Practices of Activation Patching in Language Models: Metrics and Methods. \[[pdf](https://arxiv.org/pdf/2309.16042.pdf)\] \[2023.10\]
+
+Fact Finding: Attempting to Reverse-Engineer Factual Recall on the Neuron Level. \[[blog](https://www.lesswrong.com/posts/iGuwZTHWb6DFY3sKB/fact-finding-attempting-to-reverse-engineer-factual-recall)\] \[2023.12\]
 
 Successor Heads: Recurring, Interpretable Attention Heads In The Wild. \[[pdf](https://arxiv.org/pdf/2312.09230.pdf)\] \[ICLR 2024 poster\] \[2023.12\]
 
 Impact of Co-occurrence on Factual Knowledge of Large Language Models. \[[pdf](https://arxiv.org/pdf/2310.08256.pdf)\] \[EMNLP 2023 findings\] \[2023.10\]
+
+Function vectors in large language models. \[[pdf](https://arxiv.org/pdf/2310.15213.pdf)\] \[ICLR 2024 poster\] \[2023.10\]
 
 Can Large Language Models Explain Themselves? \[[pdf](https://arxiv.org/pdf/2310.11207.pdf)\] \[2023.10\]
 
@@ -47,11 +40,15 @@ What In-Context Learning "Learns" In-Context: Disentangling Task Recognition and
 
 Language models can explain neurons in language models. \[[blog](https://openai.com/research/language-models-can-explain-neurons-in-language-models)\] \[2023.5\]
 
+A Mechanistic Interpretation of Arithmetic Reasoning in Language Models using Causal Mediation Analysis \[[pdf](https://arxiv.org/pdf/2305.15054.pdf)\] \[EMNLP 2023 main\] \[2023.5\]
+
 Dissecting Recall of Factual Associations in Auto-Regressive Language Models. \[[pdf](https://arxiv.org/pdf/2304.14767.pdf)\] \[EMNLP 2023 main\] \[2023.4\]
 
 Are Emergent Abilities of Large Language Models a Mirage? \[[pdf](https://arxiv.org/pdf/2304.15004.pdf)\] \[NeurIPS 2023 best paper\] \[2023.4\]
 
 The Closeness of In-Context Learning and Weight Shifting for Softmax Regression. \[[pdf](https://arxiv.org/pdf/2304.13276.pdf)\] \[2023.4\]
+
+Towards automated circuit discovery for mechanistic interpretability. \[[pdf](https://arxiv.org/pdf/2304.14997.pdf)\] \[NeurIPS 2023 spotlight\] \[2023.4\]
 
 How does GPT-2 compute greater-than?: Interpreting mathematical abilities in a pre-trained language model. \[[pdf](https://arxiv.org/pdf/2305.00586.pdf)\] \[NeurIPS 2023 poster\] \[2023.4\]
 
@@ -127,6 +124,28 @@ The Power of Scale for Parameter-Efficient Prompt Tuning. \[[pdf](https://arxiv.
 
 Calibrate Before Use: Improving Few-Shot Performance of Language Models
 \[[pdf](https://arxiv.org/pdf/2102.09690.pdf)\] \[ICML 2021\] \[2021.2\]
+
+## survey
+A Comprehensive Overview of Large Language Models. \[[pdf](https://arxiv.org/pdf/2307.06435.pdf)\]  \[2023.12\] \[LLM\]
+
+A Survey of Large Language Models. \[[pdf](https://arxiv.org/pdf/2303.18223.pdf)\]  \[2023.11\] \[LLM\]
+
+Explainability for Large Language Models: A Survey. \[[pdf](https://arxiv.org/pdf/2309.01029.pdf)\]  \[2023.11\] \[interpretability\]
+
+A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future. \[[pdf](https://arxiv.org/pdf/2309.15402.pdf)\]  \[2023.10\] \[chain of thought\]
+
+Instruction tuning for large language models: A survey. \[[pdf](https://arxiv.org/pdf/2308.10792.pdf)\]  \[2023.10\] \[instruction tuning\]
+
+Siren’s Song in the AI Ocean: A Survey on Hallucination in Large Language Models. \[[pdf](https://arxiv.org/pdf/2309.01219.pdf)\]  \[2023.9\] \[hallucination\]
+
+Reasoning with language model prompting: A survey. \[[pdf](https://arxiv.org/pdf/2212.09597.pdf)\]  \[2023.9\] \[reasoning\]
+
+Toward Transparent AI: A Survey on Interpreting the Inner Structures of Deep Neural Networks. \[[pdf](https://arxiv.org/pdf/2207.13243.pdf)\]  \[2023.8\] \[interpretability\]
+
+A Survey on In-context Learning. \[[pdf](https://arxiv.org/pdf/2301.00234.pdf)\]  \[2023.6\] \[in-context learning\]
+
+Scaling Down to Scale Up: A Guide to Parameter-Efficient Fine-Tuning. \[[pdf](https://arxiv.org/pdf/2303.15647.pdf)\]  \[2023.3\] \[parameter-efficient fine-tuning\]
+
 
 Prefix-Tuning: Optimizing Continuous Prompts for Generation. \[[pdf](https://arxiv.org/pdf/2101.00190.pdf)\] \[ACL 2021 long\] \[2021.1\]
 
