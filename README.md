@@ -125,6 +125,12 @@ The Power of Scale for Parameter-Efficient Prompt Tuning. \[[pdf](https://arxiv.
 Calibrate Before Use: Improving Few-Shot Performance of Language Models
 \[[pdf](https://arxiv.org/pdf/2102.09690.pdf)\] \[ICML 2021\] \[2021.2\]
 
+Prefix-Tuning: Optimizing Continuous Prompts for Generation. \[[pdf](https://arxiv.org/pdf/2101.00190.pdf)\] \[ACL 2021 long\] \[2021.1\]
+
+Transformer Feed-Forward Layers Are Key-Value Memories. \[[pdf](https://arxiv.org/pdf/2012.14913.pdf)\] \[EMNLP 2021 main\] \[2020.12\]
+
+Scaling Laws for Neural Language Models. \[[pdf](https://arxiv.org/pdf/2001.08361.pdf)\] \[2020.1\]
+
 ## survey
 A Comprehensive Overview of Large Language Models. \[[pdf](https://arxiv.org/pdf/2307.06435.pdf)\]  \[2023.12\] \[LLM\]
 
@@ -145,10 +151,3 @@ Toward Transparent AI: A Survey on Interpreting the Inner Structures of Deep Neu
 A Survey on In-context Learning. \[[pdf](https://arxiv.org/pdf/2301.00234.pdf)\]  \[2023.6\] \[in-context learning\]
 
 Scaling Down to Scale Up: A Guide to Parameter-Efficient Fine-Tuning. \[[pdf](https://arxiv.org/pdf/2303.15647.pdf)\]  \[2023.3\] \[parameter-efficient fine-tuning\]
-
-
-Prefix-Tuning: Optimizing Continuous Prompts for Generation. \[[pdf](https://arxiv.org/pdf/2101.00190.pdf)\] \[ACL 2021 long\] \[2021.1\]
-
-Transformer Feed-Forward Layers Are Key-Value Memories. \[[pdf](https://arxiv.org/pdf/2012.14913.pdf)\] \[EMNLP 2021 main\] \[2020.12\]
-
-Scaling Laws for Neural Language Models. \[[pdf](https://arxiv.org/pdf/2001.08361.pdf)\] \[2020.1\]
