@@ -12,8 +12,6 @@ Chain-of-Thought Reasoning Without Prompting. \[[pdf](https://arxiv.org/pdf/2402
 
 Fine-Tuning Enhances Existing Mechanisms: A Case Study on Entity Tracking. \[[pdf](https://arxiv.org/pdf/2402.14811.pdf)\] \[ICLR 2024 poster\] \[2024.2\]
 
-Locating Factual Knowledge in Large Language Models: Exploring the Residual Stream and Analyzing Subvalues in Vocabulary Space. \[[pdf](https://arxiv.org/pdf/2312.12141.pdf)\] \[2024.1\]
-
 Towards Best Practices of Activation Patching in Language Models: Metrics and Methods. \[[pdf](https://arxiv.org/pdf/2309.16042.pdf)\] \[2023.10\]
 
 Fact Finding: Attempting to Reverse-Engineer Factual Recall on the Neuron Level. \[[blog](https://www.lesswrong.com/posts/iGuwZTHWb6DFY3sKB/fact-finding-attempting-to-reverse-engineer-factual-recall)\] \[2023.12\]
