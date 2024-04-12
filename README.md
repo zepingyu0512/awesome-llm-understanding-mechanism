@@ -6,8 +6,6 @@ Focusing on: understanding the internal mechanism of large language models (LLM)
 ## papers
 Locating and Editing Factual Associations in Mamba. \[[pdf](https://arxiv.org/pdf/2404.03646.pdf)\] \[2024.4\]
 
-How do Large Language Models Learn In-Context? Query and Key Matrices of In-Context Heads are Two Towers for Metric Learning. \[[pdf](https://arxiv.org/pdf/2402.02872.pdf)\] \[2024.2\]
-
 Chain-of-Thought Reasoning Without Prompting. \[[pdf](https://arxiv.org/pdf/2402.10200.pdf)\] \[2024.2\]
 
 Fine-Tuning Enhances Existing Mechanisms: A Case Study on Entity Tracking. \[[pdf](https://arxiv.org/pdf/2402.14811.pdf)\] \[ICLR 2024 poster\] \[2024.2\]
