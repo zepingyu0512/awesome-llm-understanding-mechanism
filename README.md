@@ -1,11 +1,5 @@
 # awesome papers for understanding LLM mechanism
-Focusing on: understanding the internal mechanism of large language models (LLM). (keep updating when I read good papers ...)
-
-[my page](https://zepingyu0512.github.io/) and my preprint: 
-
-How do Large Language Models Learn In-Context? Query and Key Matrices of In-Context Heads are Two Towers for Metric Learning. \[[pdf](https://arxiv.org/pdf/2402.02872)\] \[arxiv\] \[2024.2\]
-
-Neuron-Level Knowledge Attribution in Large Language Models. \[[pdf](https://arxiv.org/pdf/2312.12141v3)\] \[arxiv\] \[2024.1\]
+Focusing on: understanding the internal mechanism of large language models (LLM). (keep updating when I read good papers ...) [my page](https://zepingyu0512.github.io/) 
 
 ## papers
 A Primer on the Inner Workings of Transformer-based Language Models. \[[pdf](https://arxiv.org/pdf/2405.00208)\] \[2024.5\]
@@ -14,9 +8,13 @@ Locating and Editing Factual Associations in Mamba. \[[pdf](https://arxiv.org/pd
 
 How do Large Language Models Handle Multilingualism? \[[pdf](https://arxiv.org/pdf/2402.18815)\] \[2024.2\]
 
+How do Large Language Models Learn In-Context? Query and Key Matrices of In-Context Heads are Two Towers for Metric Learning. \[[pdf](https://arxiv.org/pdf/2402.02872)\] \[2024.2\]
+
 Chain-of-Thought Reasoning Without Prompting. \[[pdf](https://arxiv.org/pdf/2402.10200.pdf)\] \[2024.2\]
 
 Fine-Tuning Enhances Existing Mechanisms: A Case Study on Entity Tracking. \[[pdf](https://arxiv.org/pdf/2402.14811.pdf)\] \[ICLR 2024 poster\] \[2024.2\]
+
+Neuron-Level Knowledge Attribution in Large Language Models. \[[pdf](https://arxiv.org/pdf/2312.12141v3)\] \[2024.1\]
 
 Interpreting CLIP's Image Representation via Text-Based Decomposition. \[[pdf](https://arxiv.org/pdf/2310.05916)\] \[ICLR 2024 oral\] \[2023.10\]
 
