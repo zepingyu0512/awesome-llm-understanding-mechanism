@@ -1,5 +1,5 @@
 # awesome papers for understanding LLM mechanism
-Focusing on: understanding the internal mechanism of large language models (LLM). (keep updating when I read good papers ...) [my page](https://zepingyu0512.github.io/) 
+Focusing on: understanding the internal mechanism of large language models (LLM). (keep updating when I read good papers ...) 
 
 ## papers
 A Primer on the Inner Workings of Transformer-based Language Models. \[[pdf](https://arxiv.org/pdf/2405.00208)\] \[2024.5\]
