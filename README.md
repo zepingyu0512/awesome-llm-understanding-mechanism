@@ -2,6 +2,8 @@
 Focusing on: understanding the internal mechanism of large language models (LLM). (keep updating when I read good papers ...) 
 
 ## papers
+Internal Consistency and Self-Feedback in Large Language Models: A Survey \[[pdf](https://arxiv.org/pdf/2407.14507)\] \[2024.7\]
+
 A Primer on the Inner Workings of Transformer-based Language Models. \[[pdf](https://arxiv.org/pdf/2405.00208)\] \[2024.5\]
 
 Locating and Editing Factual Associations in Mamba. \[[pdf](https://arxiv.org/pdf/2404.03646.pdf)\] \[2024.4\]
