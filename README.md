@@ -2,7 +2,6 @@
 Focusing on: understanding the internal mechanism of large language models (LLM). (keep updating when I read good papers ...) 
 
 ## papers
-Internal Consistency and Self-Feedback in Large Language Models: A Survey \[[pdf](https://arxiv.org/pdf/2407.14507)\] \[2024.7\]
 
 A Primer on the Inner Workings of Transformer-based Language Models. \[[pdf](https://arxiv.org/pdf/2405.00208)\] \[2024.5\]
 
@@ -138,6 +137,9 @@ Transformer Feed-Forward Layers Are Key-Value Memories. \[[pdf](https://arxiv.or
 Scaling Laws for Neural Language Models. \[[pdf](https://arxiv.org/pdf/2001.08361.pdf)\] \[2020.1\]
 
 ## survey
+
+Internal Consistency and Self-Feedback in Large Language Models: A Survey \[[pdf](https://arxiv.org/pdf/2407.14507)\] \[2024.7\]
+
 A Comprehensive Overview of Large Language Models. \[[pdf](https://arxiv.org/pdf/2307.06435.pdf)\]  \[2023.12\] \[LLM\]
 
 A Survey of Large Language Models. \[[pdf](https://arxiv.org/pdf/2303.18223.pdf)\]  \[2023.11\] \[LLM\]
