@@ -3,8 +3,6 @@ Focusing on: understanding the internal mechanism of large language models (LLM)
 
 ## papers
 
-A Primer on the Inner Workings of Transformer-based Language Models. \[[pdf](https://arxiv.org/pdf/2405.00208)\] \[2024.5\]
-
 Locating and Editing Factual Associations in Mamba. \[[pdf](https://arxiv.org/pdf/2404.03646.pdf)\] \[2024.4\]
 
 How do Large Language Models Handle Multilingualism? \[[pdf](https://arxiv.org/pdf/2402.18815)\] \[2024.2\]
@@ -140,7 +138,11 @@ Scaling Laws for Neural Language Models. \[[pdf](https://arxiv.org/pdf/2001.0836
 
 Internal Consistency and Self-Feedback in Large Language Models: A Survey \[[pdf](https://arxiv.org/pdf/2407.14507)\] \[2024.7\]
 
+A Primer on the Inner Workings of Transformer-based Language Models. \[[pdf](https://arxiv.org/pdf/2405.00208)\] \[2024.5\] \[interpretability\]
+
 A Comprehensive Overview of Large Language Models. \[[pdf](https://arxiv.org/pdf/2307.06435.pdf)\]  \[2023.12\] \[LLM\]
+
+A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions. \[[pdf](https://arxiv.org/pdf/2311.05232)\]  \[2023.11\] \[hallucination\]
 
 A Survey of Large Language Models. \[[pdf](https://arxiv.org/pdf/2303.18223.pdf)\]  \[2023.11\] \[LLM\]
 
