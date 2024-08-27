@@ -1,5 +1,7 @@
 # awesome papers for understanding LLM mechanism
-Focusing on: understanding the internal mechanism of large language models (LLM). (keep updating when I read good papers ...) 
+Focusing on: understanding the internal mechanism of large language models (LLM). (keep updating ...) 
+
+Please feel free to contact me via zepingyu@foxmail.com.
 
 ## papers
 
