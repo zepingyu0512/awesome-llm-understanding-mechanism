@@ -163,3 +163,11 @@ Toward Transparent AI: A Survey on Interpreting the Inner Structures of Deep Neu
 A Survey on In-context Learning. \[[pdf](https://arxiv.org/pdf/2301.00234.pdf)\]  \[2023.6\] \[in-context learning\]
 
 Scaling Down to Scale Up: A Guide to Parameter-Efficient Fine-Tuning. \[[pdf](https://arxiv.org/pdf/2303.15647.pdf)\]  \[2023.3\] \[parameter-efficient fine-tuning\]
+
+## other good LLM interpretability repos
+
+1. https://github.com/ruizheliUOA/Awesome-Interpretability-in-Large-Language-Models
+
+2. https://github.com/cooperleong00/Awesome-LLM-Interpretability?tab=readme-ov-file
+
+3. https://github.com/JShollaj/awesome-llm-interpretability
