@@ -138,6 +138,8 @@ Scaling Laws for Neural Language Models. \[[pdf](https://arxiv.org/pdf/2001.0836
 
 ## survey
 
+Attention Heads of Large Language Models: A Survey \[[pdf](https://arxiv.org/pdf/2409.03752)\] \[2024.9\]
+
 Internal Consistency and Self-Feedback in Large Language Models: A Survey \[[pdf](https://arxiv.org/pdf/2407.14507)\] \[2024.7\]
 
 A Primer on the Inner Workings of Transformer-based Language Models. \[[pdf](https://arxiv.org/pdf/2405.00208)\] \[2024.5\] \[interpretability\]
