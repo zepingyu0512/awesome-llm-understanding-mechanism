@@ -5,6 +5,8 @@ Paper suggestion: please feel free to contact me via zepingyu@foxmail.com.
 
 ## papers
 
+Scaling and evaluating sparse autoencoders. \[[pdf](https://arxiv.org/pdf/2406.04093)\] \[2024.6\]
+
 Locating and Editing Factual Associations in Mamba. \[[pdf](https://arxiv.org/pdf/2404.03646.pdf)\] \[2024.4\]
 
 How do Large Language Models Handle Multilingualism? \[[pdf](https://arxiv.org/pdf/2402.18815)\] \[2024.2\]
@@ -25,6 +27,8 @@ Fact Finding: Attempting to Reverse-Engineer Factual Recall on the Neuron Level.
 
 Successor Heads: Recurring, Interpretable Attention Heads In The Wild. \[[pdf](https://arxiv.org/pdf/2312.09230.pdf)\] \[ICLR 2024 poster\] \[2023.12\]
 
+Towards Monosemanticity: Decomposing Language Models With Dictionary Learning. \[[pdf](https://transformer-circuits.pub/2023/monosemantic-features)\] \[2023.10\]
+
 Impact of Co-occurrence on Factual Knowledge of Large Language Models. \[[pdf](https://arxiv.org/pdf/2310.08256.pdf)\] \[EMNLP 2023 findings\] \[2023.10\]
 
 Function vectors in large language models. \[[pdf](https://arxiv.org/pdf/2310.15213.pdf)\] \[ICLR 2024 poster\] \[2023.10\]
@@ -32,6 +36,8 @@ Function vectors in large language models. \[[pdf](https://arxiv.org/pdf/2310.15
 Can Large Language Models Explain Themselves? \[[pdf](https://arxiv.org/pdf/2310.11207.pdf)\] \[2023.10\]
 
 Neurons in Large Language Models: Dead, N-gram, Positional. \[[pdf](https://arxiv.org/pdf/2309.04827.pdf)\] \[2023.9\]
+
+Sparse Autoencoders Find Highly Interpretable Features in Language Models. \[[pdf](https://arxiv.org/pdf/2309.08600)\] \[ICLR 2024 poster\] \[2023.9\]
 
 Do Machine Learning Models Memorize or Generalize? \[[blog](https://pair.withgoogle.com/explorables/grokking/)\] \[2023.8\]
 
@@ -142,6 +148,8 @@ Internal Consistency and Self-Feedback in Large Language Models: A Survey \[[pdf
 
 A Primer on the Inner Workings of Transformer-based Language Models. \[[pdf](https://arxiv.org/pdf/2405.00208)\] \[2024.5\] \[interpretability\]
 
+Usable XAI: 10 strategies towards exploiting explainability in the LLM era. \[[pdf](https://arxiv.org/pdf/2403.08946)\] \[2024.3\] \[interpretability\]
+
 A Comprehensive Overview of Large Language Models. \[[pdf](https://arxiv.org/pdf/2307.06435.pdf)\]  \[2023.12\] \[LLM\]
 
 A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions. \[[pdf](https://arxiv.org/pdf/2311.05232)\]  \[2023.11\] \[hallucination\]
@@ -153,6 +161,8 @@ Explainability for Large Language Models: A Survey. \[[pdf](https://arxiv.org/pd
 A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future. \[[pdf](https://arxiv.org/pdf/2309.15402.pdf)\]  \[2023.10\] \[chain of thought\]
 
 Instruction tuning for large language models: A survey. \[[pdf](https://arxiv.org/pdf/2308.10792.pdf)\]  \[2023.10\] \[instruction tuning\]
+
+From Language Modeling to Instruction Following: Understanding the Behavior Shift in LLMs after Instruction Tuning. \[[pdf](https://arxiv.org/pdf/2310.00492)\]  \[2023.9\] \[instruction tuning\]
 
 Siren’s Song in the AI Ocean: A Survey on Hallucination in Large Language Models. \[[pdf](https://arxiv.org/pdf/2309.01219.pdf)\]  \[2023.9\] \[hallucination\]
 
