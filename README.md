@@ -1,11 +1,13 @@
 # awesome papers for understanding LLM mechanism
 Focusing on: understanding the internal mechanism of large language models (LLM). (keep updating ...) 
 
-Paper suggestion: contact me via zepingyu@foxmail.com.
+Paper suggestion: please contact me via zepingyu@foxmail.com.
 
 ## papers
 
-Scaling and evaluating sparse autoencoders. \[[pdf](https://arxiv.org/pdf/2406.04093)\] \[2024.6\]
+Scaling and evaluating sparse autoencoders. \[[pdf](https://arxiv.org/pdf/2405.02421)\] \[2024.6\]
+
+What does the Knowledge Neuron Thesis Have to do with Knowledge?. \[[pdf](https://arxiv.org/pdf/2406.04093)\] \[ICLR 2024 spotlight\] \[2024.6\]
 
 Locating and Editing Factual Associations in Mamba. \[[pdf](https://arxiv.org/pdf/2404.03646.pdf)\] \[2024.4\]
 
@@ -16,6 +18,8 @@ How do Large Language Models Learn In-Context? Query and Key Matrices of In-Cont
 Chain-of-Thought Reasoning Without Prompting. \[[pdf](https://arxiv.org/pdf/2402.10200.pdf)\] \[2024.2\]
 
 Fine-Tuning Enhances Existing Mechanisms: A Case Study on Entity Tracking. \[[pdf](https://arxiv.org/pdf/2402.14811.pdf)\] \[ICLR 2024 poster\] \[2024.2\]
+
+Long-form evaluation of model editing. \[[pdf](https://arxiv.org/pdf/2402.09394)\] \[NAACL 2024\] \[2024.2\]
 
 Neuron-Level Knowledge Attribution in Large Language Models. \[[pdf](https://arxiv.org/pdf/2312.12141v3)\] \[2024.1\]
 
