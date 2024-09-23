@@ -19,7 +19,7 @@ Fine-Tuning Enhances Existing Mechanisms: A Case Study on Entity Tracking. \[[pd
 
 Long-form evaluation of model editing. \[[pdf](https://arxiv.org/pdf/2402.09394)\] \[NAACL 2024\] \[2024.2\]
 
-What does the Knowledge Neuron Thesis Have to do with Knowledge? \[[pdf](https://arxiv.org/pdf/2406.04093)\] \[ICLR 2024\] \[2023.11\]
+What does the Knowledge Neuron Thesis Have to do with Knowledge? \[[pdf](https://openreview.net/pdf?id=2HJRwwbV3G)\] \[ICLR 2024\] \[2023.11\]
 
 Interpreting CLIP's Image Representation via Text-Based Decomposition. \[[pdf](https://arxiv.org/pdf/2310.05916)\] \[ICLR 2024\] \[2023.10\]
 
