@@ -178,12 +178,16 @@ A Survey on In-context Learning. \[[pdf](https://arxiv.org/pdf/2301.00234.pdf)\]
 
 Scaling Down to Scale Up: A Guide to Parameter-Efficient Fine-Tuning. \[[pdf](https://arxiv.org/pdf/2303.15647.pdf)\]  \[2023.3\] \[parameter-efficient fine-tuning\]
 
-## other good LLM interpretability repos
+## other good LLM repos
 
-1. https://github.com/ruizheliUOA/Awesome-Interpretability-in-Large-Language-Models
+1. https://github.com/ruizheliUOA/Awesome-Interpretability-in-Large-Language-Models (interpretability)
 
-2. https://github.com/cooperleong00/Awesome-LLM-Interpretability?tab=readme-ov-file
+2. https://github.com/cooperleong00/Awesome-LLM-Interpretability?tab=readme-ov-file (interpretability)
 
-3. https://github.com/JShollaj/awesome-llm-interpretability
+3. https://github.com/JShollaj/awesome-llm-interpretability (interpretability)
 
-4. https://github.com/IAAR-Shanghai/Awesome-Attention-Heads
+4. https://github.com/IAAR-Shanghai/Awesome-Attention-Heads (attention)
+
+5. https://github.com/zjunlp/KnowledgeEditingPapers (model editing)
+
+6. https://github.com/Hannibal046/Awesome-LLM (LLM)
