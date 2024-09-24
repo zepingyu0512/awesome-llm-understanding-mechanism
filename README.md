@@ -27,11 +27,11 @@ Interpreting CLIP's Image Representation via Text-Based Decomposition. \[[pdf](h
 
 Towards Best Practices of Activation Patching in Language Models: Metrics and Methods. \[[pdf](https://arxiv.org/pdf/2309.16042.pdf)\] \[ICLR 2024\] \[2023.10\]
 
-Fact Finding: Attempting to Reverse-Engineer Factual Recall on the Neuron Level. \[[blog](https://www.lesswrong.com/posts/iGuwZTHWb6DFY3sKB/fact-finding-attempting-to-reverse-engineer-factual-recall)\] \[2023.12\]
+Fact Finding: Attempting to Reverse-Engineer Factual Recall on the Neuron Level. \[[blog](https://www.lesswrong.com/posts/iGuwZTHWb6DFY3sKB/fact-finding-attempting-to-reverse-engineer-factual-recall)\] \[Deepmind\] \[2023.12\]
 
 Successor Heads: Recurring, Interpretable Attention Heads In The Wild. \[[pdf](https://arxiv.org/pdf/2312.09230.pdf)\] \[ICLR 2024\] \[2023.12\]
 
-Towards Monosemanticity: Decomposing Language Models With Dictionary Learning. \[[pdf](https://transformer-circuits.pub/2023/monosemantic-features)\] \[Anthropic\] \[2023.10\]
+Towards Monosemanticity: Decomposing Language Models With Dictionary Learning. \[[blog](https://transformer-circuits.pub/2023/monosemantic-features)\] \[Anthropic\] \[2023.10\]
 
 Impact of Co-occurrence on Factual Knowledge of Large Language Models. \[[pdf](https://arxiv.org/pdf/2310.08256.pdf)\] \[EMNLP 2023\] \[2023.10\]
 
@@ -69,7 +69,7 @@ How does GPT-2 compute greater-than?: Interpreting mathematical abilities in a p
 
 A Theory of Emergent In-Context Learning as Implicit Structure Induction. \[[pdf](https://arxiv.org/pdf/2303.07971.pdf)\] \[2023.3\]
 
-Larger language models do in-context learning differently. \[[pdf](https://arxiv.org/pdf/2303.03846.pdf)\] \[2023.3\]
+Larger language models do in-context learning differently. \[[pdf](https://arxiv.org/pdf/2303.03846.pdf)\] \[Google Research\] \[2023.3\]
 
 Does Localization Inform Editing? Surprising Differences in Causality-Based Localization vs. Knowledge Editing in Language Models. \[[pdf](https://arxiv.org/pdf/2301.04213.pdf)\] \[NeurIPs 2023\] \[2023.1\]
 
@@ -107,7 +107,7 @@ Ground-Truth Labels Matter: A Deeper Look into Input-Label Demonstrations. \[[pd
 
 Large Language Models are Zero-Shot Reasoners. \[[pdf](https://arxiv.org/pdf/2205.11916.pdf)\] \[NeurIPS 2022\]  \[2022.5\]
 
-Scaling Laws and Interpretability of Learning from Repeated Data. \[[pdf](https://arxiv.org/pdf/2205.10487.pdf)\] \[2022.5\]
+Scaling Laws and Interpretability of Learning from Repeated Data. \[[pdf](https://arxiv.org/pdf/2205.10487.pdf)\] \[Anthropic\] \[2022.5\]
 
 Transformer Feed-Forward Layers Build Predictions by Promoting Concepts in the Vocabulary Space. \[[pdf](https://arxiv.org/pdf/2203.14680.pdf)\] \[EMNLP 2022\] \[2022.3\]
 
