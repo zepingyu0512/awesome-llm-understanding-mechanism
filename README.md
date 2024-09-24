@@ -185,3 +185,5 @@ Scaling Down to Scale Up: A Guide to Parameter-Efficient Fine-Tuning. \[[pdf](ht
 2. https://github.com/cooperleong00/Awesome-LLM-Interpretability?tab=readme-ov-file
 
 3. https://github.com/JShollaj/awesome-llm-interpretability
+
+4. https://github.com/IAAR-Shanghai/Awesome-Attention-Heads
