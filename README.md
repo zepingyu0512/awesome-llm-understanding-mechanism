@@ -5,6 +5,8 @@ Conference paper recommendation: please contact me via zepingyu@foxmail.com.
 
 ## papers
 
+Interpreting Arithmetic Mechanism in Large Language Models through Comparative Neuron Analysis. \[[pdf](https://arxiv.org/pdf/2409.14144)\] \[EMNLP 2024\] \[2024.9\]
+
 Scaling and evaluating sparse autoencoders. \[[pdf](https://arxiv.org/pdf/2406.04093)\] \[OpenAI\] \[2024.6\]
 
 How do Large Language Models Learn In-Context? Query and Key Matrices of In-Context Heads are Two Towers for Metric Learning. \[[pdf](https://arxiv.org/pdf/2402.02872)\] \[EMNLP 2024\] \[2024.6\]
