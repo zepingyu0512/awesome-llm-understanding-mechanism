@@ -11,7 +11,7 @@ Scaling and evaluating sparse autoencoders. \[[pdf](https://arxiv.org/pdf/2406.0
 
 How do Large Language Models Learn In-Context? Query and Key Matrices of In-Context Heads are Two Towers for Metric Learning. \[[pdf](https://arxiv.org/pdf/2402.02872)\] \[EMNLP 2024\] \[2024.6\]
 
-Neuron-Level Knowledge Attribution in Large Language Models. \[[pdf](https://arxiv.org/pdf/2312.12141v3)\] \[EMNLP 2024\] \[2024.6\]
+Neuron-Level Knowledge Attribution in Large Language Models. \[[pdf](https://arxiv.org/pdf/2312.12141)\] \[EMNLP 2024\] \[2024.6\]
 
 Locating and Editing Factual Associations in Mamba. \[[pdf](https://arxiv.org/pdf/2404.03646.pdf)\] \[COLM 2024\] \[2024.4\]
 
