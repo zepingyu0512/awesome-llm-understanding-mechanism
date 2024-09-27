@@ -3,7 +3,15 @@ Focusing on: understanding the internal mechanism of large language models (LLM)
 
 Conference paper recommendation: please contact [me](https://zepingyu0512.github.io/).
 
-## papers
+## Why mechanistic interpretability?
+
+https://transformer-circuits.pub/2023/interpretability-dreams/index.html
+
+https://www.lesswrong.com/posts/uK6sQCNMw8WKzJeCQ/a-longlist-of-theories-of-impact-for-interpretability
+
+https://www.lesswrong.com/posts/X2i9dQQK3gETCyqh2/chris-olah-s-views-on-agi-safety
+
+## Papers
 
 Interpreting Arithmetic Mechanism in Large Language Models through Comparative Neuron Analysis. \[[pdf](https://arxiv.org/pdf/2409.14144)\] \[EMNLP 2024\] \[2024.9\]
 
@@ -146,7 +154,7 @@ Transformer Feed-Forward Layers Are Key-Value Memories. \[[pdf](https://arxiv.or
 
 Scaling Laws for Neural Language Models. \[[pdf](https://arxiv.org/pdf/2001.08361.pdf)\] \[OpenAI\] \[2020.1\]
 
-## survey
+## Survey
 
 Internal Consistency and Self-Feedback in Large Language Models: A Survey \[[pdf](https://arxiv.org/pdf/2407.14507)\] \[2024.7\]
 
@@ -178,7 +186,7 @@ A Survey on In-context Learning. \[[pdf](https://arxiv.org/pdf/2301.00234.pdf)\]
 
 Scaling Down to Scale Up: A Guide to Parameter-Efficient Fine-Tuning. \[[pdf](https://arxiv.org/pdf/2303.15647.pdf)\]  \[2023.3\] \[parameter-efficient fine-tuning\]
 
-## other good LLM repos
+## Other good LLM repos
 
 1. https://github.com/ruizheliUOA/Awesome-Interpretability-in-Large-Language-Models (interpretability)
 
