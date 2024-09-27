@@ -1,4 +1,4 @@
-# awesome papers for understanding LLM mechanism
+# Awesome Papers for Understanding LLM Mechanism
 Focusing on: understanding the internal mechanism of large language models (LLM). (keep updating ...) 
 
 Conference paper recommendation: please contact [me](https://zepingyu0512.github.io/).
