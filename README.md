@@ -21,6 +21,8 @@ How do Large Language Models Learn In-Context? Query and Key Matrices of In-Cont
 
 Neuron-Level Knowledge Attribution in Large Language Models. \[[pdf](https://arxiv.org/pdf/2312.12141)\] \[EMNLP 2024\] \[2024.6\]
 
+Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet. \[[blog](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html)\] \[Anthropic\] \[2023.10\]
+
 Locating and Editing Factual Associations in Mamba. \[[pdf](https://arxiv.org/pdf/2404.03646.pdf)\] \[COLM 2024\] \[2024.4\]
 
 Chain-of-Thought Reasoning Without Prompting. \[[pdf](https://arxiv.org/pdf/2402.10200.pdf)\] \[Deepmind\] \[2024.2\]
