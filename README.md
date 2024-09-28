@@ -158,7 +158,9 @@ Scaling Laws for Neural Language Models. \[[pdf](https://arxiv.org/pdf/2001.0836
 
 ## Survey
 
-Internal Consistency and Self-Feedback in Large Language Models: A Survey \[[pdf](https://arxiv.org/pdf/2407.14507)\] \[2024.7\]
+Mechanistic Interpretability for AI Safety A Review. \[[pdf](https://arxiv.org/pdf/2404.14082)\] \[2024.8\]
+
+Internal Consistency and Self-Feedback in Large Language Models: A Survey. \[[pdf](https://arxiv.org/pdf/2407.14507)\] \[2024.7\]
 
 A Primer on the Inner Workings of Transformer-based Language Models. \[[pdf](https://arxiv.org/pdf/2405.00208)\] \[2024.5\] \[interpretability\]
 
