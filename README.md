@@ -33,6 +33,8 @@ Long-form evaluation of model editing. \[[pdf](https://arxiv.org/pdf/2402.09394)
 
 What does the Knowledge Neuron Thesis Have to do with Knowledge? \[[pdf](https://openreview.net/pdf?id=2HJRwwbV3G)\] \[ICLR 2024\] \[2023.11\]
 
+Mechanistically analyzing the effects of fine-tuning on procedurally defined tasks. \[[pdf](https://arxiv.org/pdf/2311.12786)\] \[ICLR 2024\] \[2023.11\]
+
 Interpreting CLIP's Image Representation via Text-Based Decomposition. \[[pdf](https://arxiv.org/pdf/2310.05916)\] \[ICLR 2024\] \[2023.10\]
 
 Towards Best Practices of Activation Patching in Language Models: Metrics and Methods. \[[pdf](https://arxiv.org/pdf/2309.16042.pdf)\] \[ICLR 2024\] \[2023.10\]
