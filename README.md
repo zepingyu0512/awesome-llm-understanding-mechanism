@@ -13,13 +13,13 @@ https://www.lesswrong.com/posts/X2i9dQQK3gETCyqh2/chris-olah-s-views-on-agi-safe
 
 ## Papers
 
-Interpreting Arithmetic Mechanism in Large Language Models through Comparative Neuron Analysis. \[[pdf](https://arxiv.org/pdf/2409.14144)\] \[EMNLP 2024\] \[2024.9\]
+Interpreting Arithmetic Mechanism in Large Language Models through Comparative Neuron Analysis. \[[pdf](https://zepingyu0512.github.io/arithmetic-mechanism.github.io/)\] \[EMNLP 2024\] \[2024.9\]
 
 Scaling and evaluating sparse autoencoders. \[[pdf](https://arxiv.org/pdf/2406.04093)\] \[OpenAI\] \[2024.6\]
 
 How do Large Language Models Learn In-Context? Query and Key Matrices of In-Context Heads are Two Towers for Metric Learning. \[[pdf](https://arxiv.org/pdf/2402.02872)\] \[EMNLP 2024\] \[2024.6\]
 
-Neuron-Level Knowledge Attribution in Large Language Models. \[[pdf](https://arxiv.org/pdf/2312.12141)\] \[EMNLP 2024\] \[2024.6\]
+Neuron-Level Knowledge Attribution in Large Language Models. \[[pdf](https://zepingyu0512.github.io/neuron-attribution.github.io/)\] \[EMNLP 2024\] \[2024.6\]
 
 Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet. \[[blog](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html)\] \[Anthropic\] \[2023.10\]
 
