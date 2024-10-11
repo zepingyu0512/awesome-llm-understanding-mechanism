@@ -17,7 +17,7 @@ Interpreting Arithmetic Mechanism in Large Language Models through Comparative N
 
 Scaling and evaluating sparse autoencoders. \[[pdf](https://arxiv.org/pdf/2406.04093)\] \[OpenAI\] \[2024.6\]
 
-How do Large Language Models Learn In-Context? Query and Key Matrices of In-Context Heads are Two Towers for Metric Learning. \[[pdf](https://arxiv.org/pdf/2402.02872)\] \[EMNLP 2024\] \[2024.6\]
+How do Large Language Models Learn In-Context? Query and Key Matrices of In-Context Heads are Two Towers for Metric Learning. \[[pdf](https://zepingyu0512.github.io/in-context-mechanism.github.io/)\] \[EMNLP 2024\] \[2024.6\]
 
 Neuron-Level Knowledge Attribution in Large Language Models. \[[pdf](https://zepingyu0512.github.io/neuron-attribution.github.io/)\] \[EMNLP 2024\] \[2024.6\]
 
