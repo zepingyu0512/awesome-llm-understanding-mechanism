@@ -21,8 +21,6 @@ How do Large Language Models Learn In-Context? Query and Key Matrices of In-Cont
 
 Neuron-Level Knowledge Attribution in Large Language Models. \[[pdf](https://zepingyu0512.github.io/neuron-attribution.github.io/)\] \[EMNLP 2024\] \[2024.6\]
 
-Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet. \[[blog](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html)\] \[Anthropic\] \[2023.10\]
-
 Locating and Editing Factual Associations in Mamba. \[[pdf](https://arxiv.org/pdf/2404.03646.pdf)\] \[COLM 2024\] \[2024.4\]
 
 Chain-of-Thought Reasoning Without Prompting. \[[pdf](https://arxiv.org/pdf/2402.10200.pdf)\] \[Deepmind\] \[2024.2\]
@@ -34,6 +32,8 @@ Long-form evaluation of model editing. \[[pdf](https://arxiv.org/pdf/2402.09394)
 What does the Knowledge Neuron Thesis Have to do with Knowledge? \[[pdf](https://openreview.net/pdf?id=2HJRwwbV3G)\] \[ICLR 2024\] \[2023.11\]
 
 Mechanistically analyzing the effects of fine-tuning on procedurally defined tasks. \[[pdf](https://arxiv.org/pdf/2311.12786)\] \[ICLR 2024\] \[2023.11\]
+
+Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet. \[[blog](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html)\] \[Anthropic\] \[2023.10\]
 
 Interpreting CLIP's Image Representation via Text-Based Decomposition. \[[pdf](https://arxiv.org/pdf/2310.05916)\] \[ICLR 2024\] \[2023.10\]
 
