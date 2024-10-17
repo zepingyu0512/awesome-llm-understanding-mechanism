@@ -1,11 +1,11 @@
 # Awesome Papers for Understanding LLM Mechanism
-This paper list focuses on understanding the internal mechanism of large language models (LLM). Most papers in this paper list are the accepted ones. The papers are arranged by the published time on arxiv. 
+This paper list focuses on understanding the internal mechanism of large language models (LLM). Most papers in this paper list are the accepted ones. The papers are arranged by the published time on arxiv. Conference paper recommendation: please contact [me](https://zepingyu0512.github.io/).
 
 Here are some keywords to select interested papers: 
 
 \[causal\] \[circuit\] \[logit lens\] \[neuron\] \[SAE\] \[fine-tune\] \[in-context learning\] \[knowledge\] \[arithmetic\] \[reasoning\] \[chain-of-thought\] \[hallucination\] \[toxicity\] \[bias\] \[multimodal\] \[model editing\] \[grokking\]
 
-Conference paper recommendation: please contact [me](https://zepingyu0512.github.io/).
+
 
 ## Why mechanistic interpretability?
 
