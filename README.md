@@ -7,7 +7,7 @@ Conference paper recommendation: please contact [me](https://zepingyu0512.github
 
 ## Why mechanistic interpretability?
 
-From Insights to Actions: The Impact of Interpretability and Analysis Research on NLP. \[[pdf](https://arxiv.org/pdf/2406.12618)\] \[EMNLP 2024\] \[2024.6\]
+From Insights to Actions: The Impact of Interpretability and Analysis Research on NLP.
 
 https://transformer-circuits.pub/2023/interpretability-dreams/index.html
 
@@ -23,9 +23,9 @@ Scaling and evaluating sparse autoencoders. \[[pdf](https://arxiv.org/pdf/2406.0
 
 How do Large Language Models Learn In-Context? Query and Key Matrices of In-Context Heads are Two Towers for Metric Learning. \[[pdf](https://zepingyu0512.github.io/in-context-mechanism.github.io/)\] \[EMNLP 2024\] \[2024.6\] \[in-context learning\] 
 
-Neuron-Level Knowledge Attribution in Large Language Models. \[[pdf](https://zepingyu0512.github.io/neuron-attribution.github.io/)\] \[EMNLP 2024\] \[2024.6\] \[neuron\]
+Neuron-Level Knowledge Attribution in Large Language Models. \[[pdf](https://zepingyu0512.github.io/neuron-attribution.github.io/)\] \[EMNLP 2024\] \[2024.6\] \[neuron\] \[knowledge\]
 
-Locating and Editing Factual Associations in Mamba. \[[pdf](https://arxiv.org/pdf/2404.03646.pdf)\] \[COLM 2024\] \[2024.4\] \[causal\]
+Locating and Editing Factual Associations in Mamba. \[[pdf](https://arxiv.org/pdf/2404.03646.pdf)\] \[COLM 2024\] \[2024.4\] \[causal\] \[knowledge\]
 
 Chain-of-Thought Reasoning Without Prompting. \[[pdf](https://arxiv.org/pdf/2402.10200.pdf)\] \[Deepmind\] \[2024.2\] \[chain-of-thought\]
 
