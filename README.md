@@ -14,8 +14,6 @@ https://transformer-circuits.pub/2023/interpretability-dreams/index.html
 
 https://www.lesswrong.com/posts/uK6sQCNMw8WKzJeCQ/a-longlist-of-theories-of-impact-for-interpretability
 
-https://www.lesswrong.com/posts/X2i9dQQK3gETCyqh2/chris-olah-s-views-on-agi-safety
-
 ## Papers
 
 Interpreting Arithmetic Mechanism in Large Language Models through Comparative Neuron Analysis. \[[pdf](https://zepingyu0512.github.io/arithmetic-mechanism.github.io/)\] \[EMNLP 2024\] \[2024.9\] \[neuron\] \[arithmetic\] \[fine-tune\]
