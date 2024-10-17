@@ -6,10 +6,9 @@ Here are some keywords to select interested papers:
 \[causal\] \[circuit\] \[logit lens\] \[neuron\] \[SAE\] \[fine-tune\] \[in-context learning\] \[knowledge\] \[arithmetic\] \[reasoning\] \[chain-of-thought\] \[hallucination\] \[toxicity\] \[bias\] \[multimodal\] \[model editing\] \[grokking\]
 
 
-
 ## Why mechanistic interpretability?
 
-From Insights to Actions: The Impact of Interpretability and Analysis Research on NLP.
+[From Insights to Actions: The Impact of Interpretability and Analysis Research on NLP](https://arxiv.org/pdf/2406.12618)
 
 https://transformer-circuits.pub/2023/interpretability-dreams/index.html
 
