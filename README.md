@@ -1,11 +1,6 @@
 # Awesome Papers for Understanding LLM Mechanism
 This paper list focuses on understanding the internal mechanism of large language models (LLM). Most papers in this paper list are the accepted ones. The papers are arranged by the published time on arxiv. Conference paper recommendation: please contact [me](https://zepingyu0512.github.io/).
 
-Here are some keywords to select interested papers: 
-
-\[causal\] \[circuit\] \[logit lens\] \[neuron\] \[SAE\] \[fine-tune\] \[in-context learning\] \[knowledge\] \[arithmetic\] \[reasoning\] \[chain-of-thought\] \[hallucination\] \[toxicity\] \[bias\] \[multimodal\] \[model editing\] \[grokking\]
-
-
 ## Why mechanistic interpretability?
 
 [From Insights to Actions: The Impact of Interpretability and Analysis Research on NLP](https://arxiv.org/pdf/2406.12618)
@@ -15,6 +10,8 @@ https://transformer-circuits.pub/2023/interpretability-dreams/index.html
 https://www.lesswrong.com/posts/uK6sQCNMw8WKzJeCQ/a-longlist-of-theories-of-impact-for-interpretability
 
 ## Papers
+keywords: \[causal\] \[circuit\] \[logit lens\] \[neuron\] \[SAE\] \[fine-tune\] \[in-context learning\] \[knowledge\] \[arithmetic\] \[reasoning\] \[chain-of-thought\] \[hallucination\] \[toxicity\] \[bias\] \[multimodal\] \[model editing\] \[grokking\]
+
 
 Interpreting Arithmetic Mechanism in Large Language Models through Comparative Neuron Analysis. \[[pdf](https://zepingyu0512.github.io/arithmetic-mechanism.github.io/)\] \[EMNLP 2024\] \[2024.9\] \[neuron\] \[arithmetic\] \[fine-tune\]
 
