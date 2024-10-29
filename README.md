@@ -111,11 +111,11 @@ Emergent Abilities of Large Language Models. \[[pdf](https://arxiv.org/pdf/2206.
 
 Towards Tracing Factual Knowledge in Language Models Back to the Training Data. \[[pdf](https://arxiv.org/pdf/2205.11482.pdf)\] \[EMNLP 2022\] \[2022.5\] \[knowledge\] 
 
-Ground-Truth Labels Matter: A Deeper Look into Input-Label Demonstrations. \[[pdf](https://arxiv.org/pdf/2205.12685.pdf)\] \[EMNLP 2022\] \[2022.5\] \[in-context learning]\
+Ground-Truth Labels Matter: A Deeper Look into Input-Label Demonstrations. \[[pdf](https://arxiv.org/pdf/2205.12685.pdf)\] \[EMNLP 2022\] \[2022.5\] \[in-context learning\]
 
 Large Language Models are Zero-Shot Reasoners. \[[pdf](https://arxiv.org/pdf/2205.11916.pdf)\] \[NeurIPS 2022\]  \[2022.5\] \[chain-of-thought\]
 
-Scaling Laws and Interpretability of Learning from Repeated Data. \[[pdf](https://arxiv.org/pdf/2205.10487.pdf)\] \[Anthropic\] \[2022.5\] \[grokking]\
+Scaling Laws and Interpretability of Learning from Repeated Data. \[[pdf](https://arxiv.org/pdf/2205.10487.pdf)\] \[Anthropic\] \[2022.5\] \[grokking\]
 
 Transformer Feed-Forward Layers Build Predictions by Promoting Concepts in the Vocabulary Space. \[[pdf](https://arxiv.org/pdf/2203.14680.pdf)\] \[EMNLP 2022\] \[2022.3\] \[neuron\] \[logit lens\]
 
