@@ -109,7 +109,7 @@ Text and Patterns: For Effective Chain of Thought, It Takes Two to Tango. \[[pdf
 
 Emergent Abilities of Large Language Models. \[[pdf](https://arxiv.org/pdf/2206.07682.pdf)\] \[Google Research\] \[2022.6\] \[grokking\]
 
-Towards Tracing Factual Knowledge in Language Models Back to the Training Data. \[[pdf](https://arxiv.org/pdf/2205.11482.pdf)\] \[EMNLP 2022\] \[2022.5\] \[knowledge]\ 
+Towards Tracing Factual Knowledge in Language Models Back to the Training Data. \[[pdf](https://arxiv.org/pdf/2205.11482.pdf)\] \[EMNLP 2022\] \[2022.5\] \[knowledge\] 
 
 Ground-Truth Labels Matter: A Deeper Look into Input-Label Demonstrations. \[[pdf](https://arxiv.org/pdf/2205.12685.pdf)\] \[EMNLP 2022\] \[2022.5\] \[in-context learning]\
 
