@@ -23,6 +23,8 @@ How do Large Language Models Learn In-Context? Query and Key Matrices of In-Cont
 
 Neuron-Level Knowledge Attribution in Large Language Models. \[[pdf](https://zepingyu0512.github.io/neuron-attribution.github.io/)\] \[EMNLP 2024\] \[2024.6\] \[neuron\] \[knowledge\]
 
+Knowledge Circuits in Pretrained Transformers. \[[pdf](https://arxiv.org/pdf/2405.17969)\] \[NeurIPS 2024\] \[2024.5\] \[circuit\] \[knowledge\]
+
 Locating and Editing Factual Associations in Mamba. \[[pdf](https://arxiv.org/pdf/2404.03646.pdf)\] \[COLM 2024\] \[2024.4\] \[causal\] \[knowledge\]
 
 Chain-of-Thought Reasoning Without Prompting. \[[pdf](https://arxiv.org/pdf/2402.10200.pdf)\] \[Deepmind\] \[2024.2\] \[chain-of-thought\]
