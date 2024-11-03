@@ -16,7 +16,8 @@ https://www.lesswrong.com/posts/uK6sQCNMw8WKzJeCQ/a-longlist-of-theories-of-impa
 
 ### 2024
 
-- Interpreting Arithmetic Mechanism in Large Language Models through Comparative Neuron Analysis. \[[pdf](https://zepingyu0512.github.io/arithmetic-mechanism.github.io/)\] \[EMNLP 2024\] \[2024.9\] \[neuron\] \[arithmetic\] \[fine-tune\]
+- [Interpreting Arithmetic Mechanism in Large Language Models through Comparative Neuron Analysis](https://zepingyu0512.github.io/arithmetic-mechanism.github.io/)
+   - \[EMNLP 2024\] \[2024.9\] \[neuron\] \[arithmetic\] \[fine-tune\]
 
 - Scaling and evaluating sparse autoencoders. \[[pdf](https://arxiv.org/pdf/2406.04093)\] \[OpenAI\] \[2024.6\] \[SAE\]
 
