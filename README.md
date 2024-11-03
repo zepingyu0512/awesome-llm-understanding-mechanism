@@ -12,7 +12,6 @@ https://transformer-circuits.pub/2023/interpretability-dreams/index.html
 https://www.lesswrong.com/posts/uK6sQCNMw8WKzJeCQ/a-longlist-of-theories-of-impact-for-interpretability
 
 ## Papers
-**keywords**: \[causal\] \[circuit\] \[logit lens\] \[neuron\] \[SAE\] \[fine-tune\] \[in-context learning\] \[knowledge\] \[arithmetic\] \[reasoning\] \[chain-of-thought\] \[hallucination\] \[toxicity\] \[bias\] \[multimodal\] \[model editing\] \[grokking\]
 
 ### 2024
 
