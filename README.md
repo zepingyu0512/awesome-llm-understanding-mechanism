@@ -3,14 +3,6 @@ This paper list focuses on understanding the internal mechanism of large languag
 
 Conference paper recommendation: please contact [me](https://zepingyu0512.github.io/).
 
-## Why mechanistic interpretability?
-
-[From Insights to Actions: The Impact of Interpretability and Analysis Research on NLP](https://arxiv.org/pdf/2406.12618)
-
-https://transformer-circuits.pub/2023/interpretability-dreams/index.html
-
-https://www.lesswrong.com/posts/uK6sQCNMw8WKzJeCQ/a-longlist-of-theories-of-impact-for-interpretability
-
 ## Papers
 
 ### 2024
@@ -279,3 +271,11 @@ https://www.lesswrong.com/posts/uK6sQCNMw8WKzJeCQ/a-longlist-of-theories-of-impa
 - https://github.com/zjunlp/KnowledgeEditingPapers (model editing)
 
 - https://github.com/Hannibal046/Awesome-LLM (LLM)
+
+## Why mechanistic interpretability?
+
+[From Insights to Actions: The Impact of Interpretability and Analysis Research on NLP](https://arxiv.org/pdf/2406.12618)
+
+https://transformer-circuits.pub/2023/interpretability-dreams/index.html
+
+https://www.lesswrong.com/posts/uK6sQCNMw8WKzJeCQ/a-longlist-of-theories-of-impact-for-interpretability
