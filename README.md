@@ -14,7 +14,10 @@ Conference paper recommendation: please contact [me](https://zepingyu0512.github
    - \[OpenAI\] \[2024.6\] \[SAE\]
 
 - [How do Large Language Models Learn In-Context? Query and Key Matrices of In-Context Heads are Two Towers for Metric Learning](https://zepingyu0512.github.io/in-context-mechanism.github.io/)
-   - \[EMNLP 2024\] \[2024.6\] \[in-context learning\] 
+   - \[EMNLP 2024\] \[2024.6\] \[in-context learning\]
+
+- [Hopping Too Late: Exploring the Limitations of Large Language Models on Multi-Hop Queries](https://arxiv.org/pdf/2406.12775)
+   - \[EMNLP 2024\] \[2024.6\] \[knowledge\] \[reasoning\]
 
 - [Neuron-Level Knowledge Attribution in Large Language Models](https://zepingyu0512.github.io/neuron-attribution.github.io/)
    - \[EMNLP 2024\] \[2024.6\] \[neuron\] \[knowledge\]
@@ -33,6 +36,9 @@ Conference paper recommendation: please contact [me](https://zepingyu0512.github
 
 - [TruthX: Alleviating Hallucinations by Editing Large Language Models in Truthful Space](https://arxiv.org/pdf/2402.17811)
    - \[ACL 2024\] \[2024.2\] \[hallucination\]
+ 
+- [Understanding and Patching Compositional Reasoning in LLMs](https://arxiv.org/pdf/2402.14328)
+  - \[ACL 2024\] \[2024.2\] \[reasoning\]
 
 - [Do Large Language Models Latently Perform Multi-Hop Reasoning?](https://arxiv.org/pdf/2402.16837)
    - \[ACL 2024\] \[2024.2\] \[knowledge\] \[reasoning\]
@@ -94,7 +100,7 @@ Conference paper recommendation: please contact [me](https://zepingyu0512.github
    - \[NeurIPS 2023\] \[2023.6\] \[hallucination\]
 
 - [Label Words are Anchors: An Information Flow Perspective for Understanding In-Context Learning](https://arxiv.org/pdf/2305.14160.pdf)
-   - \[EMNLP 2023 best paper\] \[2023.5\] \[in-context learning\]
+   - \[EMNLP 2023\] \[2023.5\] \[in-context learning\]
 
 - [Let's Verify Step by Step](https://arxiv.org/pdf/2305.20050.pdf)
    - \[ICLR 2024\] \[2023.5\] \[chain-of-thought\]
@@ -111,8 +117,11 @@ Conference paper recommendation: please contact [me](https://zepingyu0512.github
 - [Dissecting Recall of Factual Associations in Auto-Regressive Language Models](https://arxiv.org/pdf/2304.14767.pdf)
    - \[EMNLP 2023\] \[2023.4\] \[causal\] \[knowledge\]
 
+- [The Internal State of an LLM Knows When It's Lying](https://arxiv.org/pdf/2304.13734)
+   - \[EMNLP 2023\] \[2023.4\] \[hallucination\]
+
 - [Are Emergent Abilities of Large Language Models a Mirage?](https://arxiv.org/pdf/2304.15004.pdf)
-   - \[NeurIPS 2023 best paper\] \[2023.4\] \[grokking\]
+   - \[NeurIPS 2023\] \[2023.4\] \[grokking\]
 
 - [Towards automated circuit discovery for mechanistic interpretability](https://arxiv.org/pdf/2304.14997.pdf)
    - \[NeurIPS 2023\] \[2023.4\] \[circuit\]
