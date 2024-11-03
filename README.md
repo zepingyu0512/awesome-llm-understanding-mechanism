@@ -156,7 +156,7 @@ Conference paper recommendation: please contact [me](https://zepingyu0512.github
    - \[Google Research\] \[2022.6\] \[grokking\]
 
 - [Towards Tracing Factual Knowledge in Language Models Back to the Training Data](https://arxiv.org/pdf/2205.11482.pdf)
-   - \[EMNLP 2022\] \[2022.5\] \[knowledge\] 
+   - \[EMNLP 2022\] \[2022.5\] \[knowledge\] \[data\]
 
 - [Ground-Truth Labels Matter: A Deeper Look into Input-Label Demonstrations](https://arxiv.org/pdf/2205.12685.pdf)
    - \[EMNLP 2022\] \[2022.5\] \[in-context learning\]
@@ -165,10 +165,10 @@ Conference paper recommendation: please contact [me](https://zepingyu0512.github
    - \[NeurIPS 2022\]  \[2022.5\] \[chain-of-thought\]
 
 - [Scaling Laws and Interpretability of Learning from Repeated Data](https://arxiv.org/pdf/2205.10487.pdf)
-   - \[Anthropic\] \[2022.5\] \[grokking\]
+   - \[Anthropic\] \[2022.5\] \[grokking\] \[data\]
 
 - [Transformer Feed-Forward Layers Build Predictions by Promoting Concepts in the Vocabulary Space](https://arxiv.org/pdf/2203.14680.pdf)
-   - \[EMNLP 2022\] \[2022.3\] \[neuron\] \[logit lens\]
+   - \[EMNLP 2022\] \[2022.3\] \[neuron\] \[logit lens\] 
 
 - [In-context Learning and Induction Heads](https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html)
    - \[Anthropic\] \[2022.3\] \[circuit\] \[in-context learning\]
@@ -188,13 +188,13 @@ Conference paper recommendation: please contact [me](https://zepingyu0512.github
 ### 2021
 
 - [A Mathematical Framework for Transformer Circuits](https://transformer-circuits.pub/2021/framework/index.html)
-   - \[Anthropic\] \[2021.12\] \[circuit\]
+   - \[Anthropic\] \[2021.12\] \[circuit\] 
 
 - [Towards a Unified View of Parameter-Efficient Transfer Learning](https://arxiv.org/pdf/2110.04366.pdf)
    - \[ICLR 2022\] \[2021.10\] \[fine-tune\]
 
 - [Deduplicating Training Data Makes Language Models Better](https://arxiv.org/pdf/2107.06499.pdf)
-   - \[ACL 2022\] \[2021.7\] \[fine-tune\]
+   - \[ACL 2022\] \[2021.7\] \[fine-tune\] \[data\]
 
 - [Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity](https://arxiv.org/pdf/2104.08786.pdf)
    - \[ACL 2022\] \[2021.4\] \[in-context learning\]
@@ -203,7 +203,7 @@ Conference paper recommendation: please contact [me](https://zepingyu0512.github
    - \[ICML 2021\] \[2021.2\] \[in-context learning\]
 
 - [Transformer Feed-Forward Layers Are Key-Value Memories](https://arxiv.org/pdf/2012.14913.pdf)
-   - \[EMNLP 2021\] \[2020.12\] \[neuron\]
+   - \[EMNLP 2021\] \[2020.12\] \[neuron\] 
 
 ## Survey
 
