@@ -159,7 +159,7 @@ Conference paper recommendation: please contact [me](https://zepingyu0512.github
    - \[Anthropic\] \[2022.9\] \[neuron\] \[SAE\]
 
 - [Text and Patterns: For Effective Chain of Thought, It Takes Two to Tango](https://arxiv.org/pdf/2209.07686.pdf)
-   - \[2022.9\] \[chain-of-thought\]
+   - \[Google Research\] \[2022.9\] \[chain-of-thought\]
 
 - [Emergent Abilities of Large Language Models](https://arxiv.org/pdf/2206.07682.pdf)
    - \[Google Research\] \[2022.6\] \[grokking\]
