@@ -1,5 +1,5 @@
 # Awesome Papers for Understanding LLM Mechanism
-This list focuses on understanding the internal mechanism of large language models (LLM). Most papers in this list are the accepted ones. The papers are arranged by the published time on arxiv. 
+This list focuses on understanding the internal mechanism of large language models (LLM). Works in this list are accepted by top conferences (e.g. ICML, NeurIPS, ICLR, ACL, EMNLP, NAACL), or written by top research institutions.
 
 Conference paper recommendation: please contact [me](https://zepingyu0512.github.io/).
 
