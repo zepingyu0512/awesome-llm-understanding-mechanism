@@ -30,6 +30,9 @@ Conference paper recommendation: please contact [me](https://zepingyu0512.github
 
 - [Chain-of-Thought Reasoning Without Prompting](https://arxiv.org/pdf/2402.10200.pdf)
    - \[Deepmind\] \[2024.2\] \[chain-of-thought\]
+ 
+- [Backward Lens: Projecting Language Model Gradients into the Vocabulary Space](https://arxiv.org/pdf/2402.12865)
+   - \[EMNLP 2024\] \[2024.2\] \[logit lens\]
 
 - [Fine-Tuning Enhances Existing Mechanisms: A Case Study on Entity Tracking](https://arxiv.org/pdf/2402.14811.pdf)
    - \[ICLR 2024\] \[2024.2\] \[fine-tune\]
