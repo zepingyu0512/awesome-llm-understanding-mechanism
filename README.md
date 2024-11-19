@@ -28,6 +28,9 @@ Conference paper recommendation: please contact [me](https://zepingyu0512.github
 - [Locating and Editing Factual Associations in Mamba](https://arxiv.org/pdf/2404.03646.pdf)
    - \[COLM 2024\] \[2024.4\] \[causal\] \[knowledge\]
 
+- [Diffusion Lens: Interpreting Text Encoders in Text-to-Image Pipelines](https://arxiv.org/pdf/2403.05846)
+   - \[ACL 2024\] \[2024.3\] \[logit lens\] \[multimodal\]
+
 - [Chain-of-Thought Reasoning Without Prompting](https://arxiv.org/pdf/2402.10200.pdf)
    - \[Deepmind\] \[2024.2\] \[chain-of-thought\]
  
