@@ -102,6 +102,9 @@ Conference paper recommendation: please contact [me](https://zepingyu0512.github
 - [Inference-Time Intervention: Eliciting Truthful Answers from a Language Model](https://arxiv.org/pdf/2306.03341)
    - \[NeurIPS 2023\] \[2023.6\] \[hallucination\]
 
+- [VISIT: Visualizing and Interpreting the Semantic Information Flow of Transformers](https://arxiv.org/pdf/2305.13417)
+   - \[EMNLP 2023\] \[2023.5\] \[logit lens\]
+
 - [Label Words are Anchors: An Information Flow Perspective for Understanding In-Context Learning](https://arxiv.org/pdf/2305.14160.pdf)
    - \[EMNLP 2023\] \[2023.5\] \[in-context learning\]
 
