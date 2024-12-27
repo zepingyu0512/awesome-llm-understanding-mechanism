@@ -3,7 +3,7 @@ This list focuses on understanding the internal mechanism of large language mode
 
 [Another list](https://github.com/zepingyu0512/awesome-SAE/tree/main) focuses on sparse auto-encoders (SAE).
 
-Conference paper recommendation: please contact [me](https://zepingyu0512.github.io/).
+Paper recommendation (accepted by conferences): please contact [me](https://zepingyu0512.github.io/).
 
 ## Papers
 
