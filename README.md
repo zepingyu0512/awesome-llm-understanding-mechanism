@@ -1,6 +1,8 @@
 # Awesome Papers for Understanding LLM Mechanism
 This list focuses on understanding the internal mechanism of large language models (LLM). Works in this list are accepted by top conferences (e.g. ICML, NeurIPS, ICLR, ACL, EMNLP, NAACL), or written by top research institutions.
 
+[Another list](https://github.com/zepingyu0512/awesome-SAE/tree/main) focuses on sparse auto-encoders (SAE).
+
 Conference paper recommendation: please contact [me](https://zepingyu0512.github.io/).
 
 ## Papers
