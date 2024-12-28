@@ -13,6 +13,8 @@ Paper recommendation (accepted by conferences): please contact [me](https://zepi
 
 - [Lesswrong](https://www.lesswrong.com/)
 
+- [AI alignment form](https://www.alignmentforum.org/)
+
 ## Papers
 
 ### 2024
