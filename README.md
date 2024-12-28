@@ -7,7 +7,7 @@ Paper recommendation (accepted by conferences): please contact [me](https://zepi
 
 ## Recommended blogs
 
-- [Transformer Circuits Thread by Anthropic](https://transformer-circuits.pub/)
+- [Transformer Circuits Thread](https://transformer-circuits.pub/)
 
 - [Neel Nanda's mechanistic interpretability blogs](https://www.neelnanda.io/mechanistic-interpretability)
 
