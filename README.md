@@ -5,6 +5,14 @@ This list focuses on understanding the internal mechanism of large language mode
 
 Paper recommendation (accepted by conferences): please contact [me](https://zepingyu0512.github.io/).
 
+## Recommended blogs
+
+- [Transformer Circuits Thread by Anthropic](https://transformer-circuits.pub/)
+
+- [Neel Nanda's mechanistic interpretability blogs](https://www.neelnanda.io/mechanistic-interpretability)
+
+- [Lesswrong](https://www.lesswrong.com/)
+
 ## Papers
 
 ### 2024
@@ -299,6 +307,6 @@ Paper recommendation (accepted by conferences): please contact [me](https://zepi
 
 [From Insights to Actions: The Impact of Interpretability and Analysis Research on NLP](https://arxiv.org/pdf/2406.12618)
 
-https://transformer-circuits.pub/2023/interpretability-dreams/index.html
+[Interpretability Dreams](https://transformer-circuits.pub/2023/interpretability-dreams/index.html)
 
-https://www.lesswrong.com/posts/uK6sQCNMw8WKzJeCQ/a-longlist-of-theories-of-impact-for-interpretability
+[A Longlist of Theories of Impact for Interpretability](https://www.lesswrong.com/posts/uK6sQCNMw8WKzJeCQ/a-longlist-of-theories-of-impact-for-interpretability)
