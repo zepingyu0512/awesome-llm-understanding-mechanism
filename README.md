@@ -109,6 +109,9 @@ Paper recommendation (accepted by conferences): please contact [me](https://zepi
 
 - [VISIT: Visualizing and Interpreting the Semantic Information Flow of Transformers](https://arxiv.org/pdf/2305.13417)
    - \[EMNLP 2023\] \[2023.5\] \[logit lens\]
+ 
+- [Finding Neurons in a Haystack: Case Studies with Sparse Probing](https://arxiv.org/pdf/2305.01610)
+   - \[TMLR 2024\] \[2023.5\] \[neuron\]
 
 - [Label Words are Anchors: An Information Flow Perspective for Understanding In-Context Learning](https://arxiv.org/pdf/2305.14160.pdf)
    - \[EMNLP 2023\] \[2023.5\] \[in-context learning\]
