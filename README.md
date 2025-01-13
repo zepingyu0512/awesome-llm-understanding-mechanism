@@ -5,16 +5,6 @@ Other paper lists focuses on [SAE](https://github.com/zepingyu0512/awesome-SAE) 
 
 Paper recommendation (accepted by conferences): please contact [me](https://zepingyu0512.github.io/).
 
-## Recommended blogs
-
-- [Transformer Circuits Thread](https://transformer-circuits.pub/)
-
-- [Neel Nanda's mechanistic interpretability blogs](https://www.neelnanda.io/mechanistic-interpretability)
-
-- [Lesswrong](https://www.lesswrong.com/)
-
-- [AI alignment form](https://www.alignmentforum.org/)
-
 ## Papers
 
 ### 2024
@@ -312,3 +302,13 @@ Paper recommendation (accepted by conferences): please contact [me](https://zepi
 [Interpretability Dreams](https://transformer-circuits.pub/2023/interpretability-dreams/index.html)
 
 [A Longlist of Theories of Impact for Interpretability](https://www.lesswrong.com/posts/uK6sQCNMw8WKzJeCQ/a-longlist-of-theories-of-impact-for-interpretability)
+
+## Recommended blogs
+
+- [Transformer Circuits Thread](https://transformer-circuits.pub/)
+
+- [Neel Nanda's mechanistic interpretability blogs](https://www.neelnanda.io/mechanistic-interpretability)
+
+- [Lesswrong](https://www.lesswrong.com/)
+
+- [AI alignment form](https://www.alignmentforum.org/)
