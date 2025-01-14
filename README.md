@@ -12,6 +12,9 @@ Paper recommendation (accepted by conferences): please contact [me](https://zepi
 - [Interpreting Arithmetic Mechanism in Large Language Models through Comparative Neuron Analysis](https://zepingyu0512.github.io/arithmetic-mechanism.github.io/)
    - \[EMNLP 2024\] \[2024.9\] \[neuron\] \[arithmetic\] \[fine-tune\]
 
+- [NNsight and NDIF: Democratizing Access to Open-Weight Foundation Model Internals](https://arxiv.org/pdf/2407.14561)
+  - \[2024.7\]
+
 - [Scaling and evaluating sparse autoencoders](https://arxiv.org/pdf/2406.04093)
    - \[OpenAI\] \[2024.6\] \[SAE\]
 
