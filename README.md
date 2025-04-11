@@ -9,6 +9,9 @@ Paper recommendation (accepted by conferences): please contact [me](https://zepi
 
 ### 2024
 
+- [Can Knowledge Editing Really Correct Hallucinations?](https://arxiv.org/pdf/2410.16251)
+   - \[ICLR 2025\] \[2024.10\] \[knowledge\] \[model editing\]
+
 - [Interpreting Arithmetic Mechanism in Large Language Models through Comparative Neuron Analysis](https://zepingyu0512.github.io/arithmetic-mechanism.github.io/)
    - \[EMNLP 2024\] \[2024.9\] \[neuron\] \[arithmetic\] \[fine-tune\]
 
