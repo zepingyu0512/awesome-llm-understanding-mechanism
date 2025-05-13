@@ -228,6 +228,9 @@ Paper recommendation (accepted by conferences): please contact [me](https://zepi
 - [Deduplicating Training Data Makes Language Models Better](https://arxiv.org/pdf/2107.06499.pdf)
    - \[ACL 2022\] \[2021.7\] \[fine-tune\] \[data\]
 
+- [Detecting Local Insights from Global Labels: Supervised & Zero-Shot Sequence Labeling via a Convolutional Decomposition](https://aclanthology.org/2021.cl-4.25.pdf)
+   - \[EMNLP 2021\] \[2021.7\] 
+
 - [Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity](https://arxiv.org/pdf/2104.08786.pdf)
    - \[ACL 2022\] \[2021.4\] \[in-context learning\]
 
@@ -235,7 +238,9 @@ Paper recommendation (accepted by conferences): please contact [me](https://zepi
    - \[ICML 2021\] \[2021.2\] \[in-context learning\]
 
 - [Transformer Feed-Forward Layers Are Key-Value Memories](https://arxiv.org/pdf/2012.14913.pdf)
-   - \[EMNLP 2021\] \[2020.12\] \[neuron\] 
+   - \[EMNLP 2021\] \[2020.12\] \[neuron\]
+ 
+
 
 ## Survey
 
