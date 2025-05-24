@@ -86,6 +86,9 @@ Paper recommendation (accepted by conferences): please contact [me](https://zepi
 - [A Mechanistic Understanding of Alignment Algorithms: A Case Study on DPO and Toxicity](https://arxiv.org/pdf/2401.01967)
    - \[ICML 2024\] \[2024.1\] \[toxicity\] \[fine-tune\]
 
+- [The Impact of Reasoning Step Length on Large Language Models](https://arxiv.org/pdf/2401.04925)
+   - \[ACL 2024\] \[2024.1\] \[reasoning\]
+
 ### 2023
 
 - [What does the Knowledge Neuron Thesis Have to do with Knowledge?](https://openreview.net/pdf?id=2HJRwwbV3G)
