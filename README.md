@@ -16,6 +16,9 @@ Paper recommendation (accepted by conferences): please contact [me](https://zepi
    - \[ACL 2025\] \[2025.4\] \[multilinguality\]
 
 - [On the Biology of a Large Language Model](https://transformer-circuits.pub/2025/attribution-graphs/biology.html)
+   - \[Anthropic\] \[2025.3\]
+ 
+- [Circuit Tracing: Revealing Computational Graphs in Language Models](https://transformer-circuits.pub/2025/attribution-graphs/methods.html)
    - \[Anthropic\] \[2025.3\] 
  
 - [The Mirage of Model Editing: Revisiting Evaluation in the Wild](https://arxiv.org/pdf/2502.11177)
