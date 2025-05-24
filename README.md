@@ -14,6 +14,9 @@ Paper recommendation (accepted by conferences): please contact [me](https://zepi
 
 ### 2024
 
+- [Shaping the Safety Boundaries: Understanding and Defending Against Jailbreaks in Large Language Models](https://arxiv.org/pdf/2412.17034)
+   - \[aCL 2025\] \[2024.12\] \[safety\]
+
 - [Can Knowledge Editing Really Correct Hallucinations?](https://arxiv.org/pdf/2410.16251)
    - \[ICLR 2025\] \[2024.10\] \[knowledge\] \[model editing\]
 
