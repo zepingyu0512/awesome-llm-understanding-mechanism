@@ -247,6 +247,9 @@ Paper recommendation (accepted by conferences): please contact [me](https://zepi
 - [A Survey on Sparse Autoencoders: Interpreting the Internal Mechanisms of Large Language Models](https://arxiv.org/pdf/2503.05613)
    - \[2025.3\] \[SAE\]
 
+- [Towards Reasoning Era: A Survey of Long Chain-of-Thought for Reasoning Large Language Models](https://arxiv.org/pdf/2503.09567)
+   - \[2025.3\] \[LLM reasoning\] \[long COT\]
+
 - [Mechanistic Interpretability for AI Safety A Review](https://arxiv.org/pdf/2404.14082)
    - \[2024.8\] \[safety\]
 
