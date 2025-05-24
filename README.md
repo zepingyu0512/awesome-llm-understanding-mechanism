@@ -7,6 +7,11 @@ Paper recommendation (accepted by conferences): please contact [me](https://zepi
 
 ## Papers
 
+### 2025
+
+- [Neural Incompatibility: The Unbridgeable Gap of Cross-Scale Parametric Knowledge Transfer in Large Language Models](https://arxiv.org/pdf/2505.14436)
+   - \[ACL 2025\] \[2025.5\] \[neuron\]
+
 ### 2024
 
 - [Can Knowledge Editing Really Correct Hallucinations?](https://arxiv.org/pdf/2410.16251)
