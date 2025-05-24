@@ -124,6 +124,9 @@ Paper recommendation (accepted by conferences): please contact [me](https://zepi
 - [Sparse Autoencoders Find Highly Interpretable Features in Language Models](https://arxiv.org/pdf/2309.08600)
    - \[ICLR 2024\] \[2023.9\] \[SAE\]
 
+- [Can LLM-Generated Misinformation Be Detected?](https://arxiv.org/pdf/2309.13788)
+   - \[ICLR 2024\] \[2023.9\] \[misinformation\]
+
 - [Do Machine Learning Models Memorize or Generalize?](https://pair.withgoogle.com/explorables/grokking/)
    - \[2023.8\] \[grokking\]
 
