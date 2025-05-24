@@ -244,6 +244,9 @@ Paper recommendation (accepted by conferences): please contact [me](https://zepi
 
 ## Survey
 
+- [A Survey on Sparse Autoencoders: Interpreting the Internal Mechanisms of Large Language Models](https://arxiv.org/pdf/2503.05613)
+   - \[2025.3\] \[SAE\]
+
 - [Mechanistic Interpretability for AI Safety A Review](https://arxiv.org/pdf/2404.14082)
    - \[2024.8\] \[safety\]
 
