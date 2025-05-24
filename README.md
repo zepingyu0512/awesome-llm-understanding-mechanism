@@ -11,6 +11,9 @@ Paper recommendation (accepted by conferences): please contact [me](https://zepi
 
 - [Neural Incompatibility: The Unbridgeable Gap of Cross-Scale Parametric Knowledge Transfer in Large Language Models](https://arxiv.org/pdf/2505.14436)
    - \[ACL 2025\] \[2025.5\] \[neuron\]
+
+- [Lost in Multilinguality: Dissecting Cross-lingual Factual Inconsistency in Transformer Language Models](https://arxiv.org/pdf/2504.04264)
+   - \[ACL 2025\] \[2025.4\] \[multilinguality\]
  
 - [The Mirage of Model Editing: Revisiting Evaluation in the Wild](https://arxiv.org/pdf/2502.11177)
    - \[ACL 2025\] \[2025.2\] \[model editing\]
@@ -21,7 +24,7 @@ Paper recommendation (accepted by conferences): please contact [me](https://zepi
 ### 2024
 
 - [Shaping the Safety Boundaries: Understanding and Defending Against Jailbreaks in Large Language Models](https://arxiv.org/pdf/2412.17034)
-   - \[aCL 2025\] \[2024.12\] \[safety\]
+   - \[ACL 2025\] \[2024.12\] \[safety\]
 
 - [Can Knowledge Editing Really Correct Hallucinations?](https://arxiv.org/pdf/2410.16251)
    - \[ICLR 2025\] \[2024.10\] \[knowledge\] \[model editing\]
@@ -30,10 +33,13 @@ Paper recommendation (accepted by conferences): please contact [me](https://zepi
    - \[EMNLP 2024\] \[2024.9\] \[neuron\] \[arithmetic\] \[fine-tune\]
 
 - [NNsight and NDIF: Democratizing Access to Open-Weight Foundation Model Internals](https://arxiv.org/pdf/2407.14561)
-  - \[2024.7\]
+  - \[ICLR 2025\] \[2024.7\]
 
 - [Scaling and evaluating sparse autoencoders](https://arxiv.org/pdf/2406.04093)
    - \[OpenAI\] \[2024.6\] \[SAE\]
+
+- [BMIKE-53: Investigating Cross-Lingual Knowledge Editing with In-Context Learning](https://arxiv.org/pdf/2406.17764?)
+   - \[ACL 2025\] \[2024.6\] \[model editing\]
 
 - [How do Large Language Models Learn In-Context? Query and Key Matrices of In-Context Heads are Two Towers for Metric Learning](https://zepingyu0512.github.io/in-context-mechanism.github.io/)
    - \[EMNLP 2024\] \[2024.6\] \[in-context learning\]
