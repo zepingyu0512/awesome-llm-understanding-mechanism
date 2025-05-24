@@ -15,6 +15,9 @@ Paper recommendation (accepted by conferences): please contact [me](https://zepi
 - [The Mirage of Model Editing: Revisiting Evaluation in the Wild](https://arxiv.org/pdf/2502.11177)
    - \[ACL 2025\] \[2025.2\] \[model editing\]
 
+- [AxBench: Steering LLMs? Even Simple Baselines Outperform Sparse Autoencoders](https://arxiv.org/pdf/2501.17148)
+   - \[ICML 2025\] \[2025.1\] \[SAE\]
+
 ### 2024
 
 - [Shaping the Safety Boundaries: Understanding and Defending Against Jailbreaks in Large Language Models](https://arxiv.org/pdf/2412.17034)
