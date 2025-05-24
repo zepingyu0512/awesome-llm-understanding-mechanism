@@ -282,6 +282,9 @@ Paper recommendation (accepted by conferences): please contact [me](https://zepi
 - [Internal Consistency and Self-Feedback in Large Language Models: A Survey](https://arxiv.org/pdf/2407.14507)
    - \[2024.7\]
 
+- [Knowledge Mechanisms in Large Language Models: A Survey and Perspective](https://arxiv.org/pdf/2407.15017)
+   - \[2024.7\] \[knowledge\]
+
 - [A Primer on the Inner Workings of Transformer-based Language Models](https://arxiv.org/pdf/2405.00208)
    - \[2024.5\] \[interpretability\]
 
