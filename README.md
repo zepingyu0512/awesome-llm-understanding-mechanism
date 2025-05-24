@@ -14,6 +14,9 @@ Paper recommendation (accepted by conferences): please contact [me](https://zepi
 
 - [Lost in Multilinguality: Dissecting Cross-lingual Factual Inconsistency in Transformer Language Models](https://arxiv.org/pdf/2504.04264)
    - \[ACL 2025\] \[2025.4\] \[multilinguality\]
+
+- [On the Biology of a Large Language Model](https://transformer-circuits.pub/2025/attribution-graphs/biology.html)
+   - \[Anthropic\] \[2025.3\] 
  
 - [The Mirage of Model Editing: Revisiting Evaluation in the Wild](https://arxiv.org/pdf/2502.11177)
    - \[ACL 2025\] \[2025.2\] \[model editing\]
