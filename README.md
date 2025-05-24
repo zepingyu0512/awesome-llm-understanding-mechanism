@@ -11,6 +11,9 @@ Paper recommendation (accepted by conferences): please contact [me](https://zepi
 
 - [Neural Incompatibility: The Unbridgeable Gap of Cross-Scale Parametric Knowledge Transfer in Large Language Models](https://arxiv.org/pdf/2505.14436)
    - \[ACL 2025\] \[2025.5\] \[neuron\]
+ 
+- [The Mirage of Model Editing: Revisiting Evaluation in the Wild](https://arxiv.org/pdf/2502.11177)
+   - \[ACL 2025\] \[2025.2\] \[model editing\]
 
 ### 2024
 
