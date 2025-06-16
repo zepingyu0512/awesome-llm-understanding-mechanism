@@ -12,6 +12,9 @@ Paper recommendation (accepted by conferences): please contact [me](https://zepi
 - [Neural Incompatibility: The Unbridgeable Gap of Cross-Scale Parametric Knowledge Transfer in Large Language Models](https://arxiv.org/pdf/2505.14436)
    - \[ACL 2025\] \[2025.5\] \[neuron\]
 
+- [Model Unlearning via Sparse Autoencoder Subspace Guided Projections](https://arxiv.org/abs/2505.24428)
+   - \[ICML 2025 workshop\] \[2025.5\] \[SAE\]
+
 - [Lost in Multilinguality: Dissecting Cross-lingual Factual Inconsistency in Transformer Language Models](https://arxiv.org/pdf/2504.04264)
    - \[ACL 2025\] \[2025.4\] \[multilinguality\]
 
@@ -23,6 +26,9 @@ Paper recommendation (accepted by conferences): please contact [me](https://zepi
  
 - [The Mirage of Model Editing: Revisiting Evaluation in the Wild](https://arxiv.org/pdf/2502.11177)
    - \[ACL 2025\] \[2025.2\] \[model editing\]
+ 
+- [Towards Understanding Fine-Tuning Mechanisms of LLMs via Circuit Analysis](https://arxiv.org/abs/2502.11812)
+   - \[ICML 2025\] \[2025.2\] \[circuit\]
 
 - [AxBench: Steering LLMs? Even Simple Baselines Outperform Sparse Autoencoders](https://arxiv.org/pdf/2501.17148)
    - \[ICML 2025\] \[2025.1\] \[SAE\]
