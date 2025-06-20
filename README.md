@@ -20,7 +20,10 @@ Paper recommendation (accepted by conferences): please contact [me](https://zepi
 
 - [On the Biology of a Large Language Model](https://transformer-circuits.pub/2025/attribution-graphs/biology.html)
    - \[Anthropic\] \[2025.3\]
- 
+
+- [Taming Knowledge Conflicts in Language Models](https://www.arxiv.org/pdf/2503.10996)
+   - \[ICML 2025\] \[2025.3\] \[knowledge\] \[hallucination\] \[superposition\]
+
 - [Circuit Tracing: Revealing Computational Graphs in Language Models](https://transformer-circuits.pub/2025/attribution-graphs/methods.html)
    - \[Anthropic\] \[2025.3\] 
  
