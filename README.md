@@ -77,6 +77,9 @@ Paper recommendation (accepted by conferences): please contact [me](https://zepi
 - [Locating and Editing Factual Associations in Mamba](https://arxiv.org/pdf/2404.03646.pdf)
    - \[COLM 2024\] \[2024.4\] \[causal\] \[knowledge\]
 
+- [Unveiling LLMs: The Evolution of Latent Representations in a Dynamic Knowledge Graph](https://arxiv.org/pdf/2404.03623)
+   - \[COLM 2024\] \[2024.4\] \[activation patching\]
+
 - [Have Faith in Faithfulness: Going Beyond Circuit Overlap When Finding Model Mechanisms](https://arxiv.org/pdf/2403.17806)
    - \[COLM 2024\] \[2024.3\] \[circuit\] 
 
