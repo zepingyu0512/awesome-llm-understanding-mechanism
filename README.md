@@ -74,6 +74,9 @@ Paper recommendation (accepted by conferences): please contact [me](https://zepi
 - [Knowledge Circuits in Pretrained Transformers](https://arxiv.org/pdf/2405.17969)
    - \[NeurIPS 2024\] \[2024.5\] \[circuit\] \[knowledge\]
 
+- [Not All Language Model Features Are One-Dimensionally Linear](https://arxiv.org/pdf/2405.14860)
+   - \[ICLR 2025\] \[2024.5\] \[SAE\]
+     
 - [Locating and Editing Factual Associations in Mamba](https://arxiv.org/pdf/2404.03646.pdf)
    - \[COLM 2024\] \[2024.4\] \[causal\] \[knowledge\]
 
