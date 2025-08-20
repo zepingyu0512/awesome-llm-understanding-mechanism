@@ -9,6 +9,12 @@ Paper recommendation (accepted by conferences): please contact [me](https://zepi
 
 ### 2025
 
+- [Locate-then-Merge: Neuron-Level Parameter Fusion for Mitigating Catastrophic Forgetting in Multimodal LLMs](https://arxiv.org/pdf/2505.16703)
+   - \[EMNLP 2025\] \[2025.8\] \[multimodal\] \[model merging\]
+
+- [Back Attention: Understanding and Enhancing Multi-Hop Reasoning in Large Language Models](https://arxiv.org/pdf/2502.10835)
+   - \[EMNLP 2025\] \[2025.8\] \[reasoning\]
+
 - [Neural Incompatibility: The Unbridgeable Gap of Cross-Scale Parametric Knowledge Transfer in Large Language Models](https://arxiv.org/pdf/2505.14436)
    - \[ACL 2025\] \[2025.5\] \[neuron\]
 
