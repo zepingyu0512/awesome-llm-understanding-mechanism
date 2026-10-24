@@ -33,6 +33,9 @@ Paper recommendation (accepted by conferences): please contact [me](https://zepi
 - [Circuit Tracing: Revealing Computational Graphs in Language Models](https://transformer-circuits.pub/2025/attribution-graphs/methods.html)
    - \[Anthropic\] \[2025.3\] 
  
+- [ParamMute: Suppressing Knowledge-Critical FFNs for Faithful Retrieval-Augmented Generation](https://arxiv.org/pdf/2502.15543)
+   - \[NeurIPS 2025\] \[2025.2\] \[knowledge\] \[neuron\] \[hallucination\]
+
 - [The Mirage of Model Editing: Revisiting Evaluation in the Wild](https://arxiv.org/pdf/2502.11177)
    - \[ACL 2025\] \[2025.2\] \[model editing\]
  
